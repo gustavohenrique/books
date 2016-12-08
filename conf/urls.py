@@ -21,6 +21,7 @@ from django.views.static import serve
 urlpatterns = [
     #url(r'^grappelli/', include('grappelli.urls')),
     url(r'', admin.site.urls),
+    url(r'^jet/', include('jet.urls', 'jet')),
     url(r'^admin/', admin.site.urls),
 ]
 

@@ -35,9 +35,9 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'material',
-    'material.frontend',
-    'material.admin',
+    #'material',
+    #'material.admin',
+    'jet',
 
     'django.contrib.admin',
     'django.contrib.auth',
