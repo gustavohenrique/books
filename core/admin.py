@@ -21,6 +21,8 @@ class BookAdmin(admin.ModelAdmin):
     list_display = ('cover_image', 'title', 'pub_date', 'tags_list')
     search_fields = ['title']
     list_filter = ('tags',)
+    list_per_page = 31
+    save_on_top = True
 
 
 admin.site.register(Book, BookAdmin)
