@@ -35,7 +35,9 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'grappelli',
+    'material',
+    'material.frontend',
+    'material.admin',
 
     'django.contrib.admin',
     'django.contrib.auth',

@@ -19,7 +19,8 @@ from django.contrib import admin
 from django.views.static import serve
 
 urlpatterns = [
-    url(r'^grappelli/', include('grappelli.urls')),
+    #url(r'^grappelli/', include('grappelli.urls')),
+    url(r'', admin.site.urls),
     url(r'^admin/', admin.site.urls),
 ]
 

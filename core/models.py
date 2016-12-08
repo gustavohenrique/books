@@ -30,7 +30,7 @@ class Book(models.Model):
     pub_date = models.DateField(blank=True, null=True, verbose_name='Publication')
     cover = models.ImageField(upload_to=update_filename, blank=True, null=True)
     author = models.ForeignKey(Author, null=True, blank=True)
-    tags = models.ManyToManyField(Tag, blank=True, null=True)
+    tags = models.ManyToManyField(Tag, blank=True)
 
     def __unicode__(self):
         return u'%s' % self.title

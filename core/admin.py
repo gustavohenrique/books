@@ -12,7 +12,7 @@ class BookAdmin(admin.ModelAdmin):
     cover_image.allow_tags = True
 
     def tags_list(self, instance):
-        return ','.join([t.name for t in instance.tags.all()])
+        return ', '.join([t.name for t in instance.tags.all()])
     tags_list.short_description = 'Tags'
 
     site_header = 'Coruja'
