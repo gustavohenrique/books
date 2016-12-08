@@ -18,6 +18,10 @@ from django.conf import settings
 from django.contrib import admin
 from django.views.static import serve
 
+admin.site.site_header = settings.SITE_TITLE
+admin.site.index_title = settings.SITE_TITLE
+admin.site.site_title = settings.SITE_TITLE
+
 urlpatterns = [
     #url(r'^grappelli/', include('grappelli.urls')),
     url(r'', admin.site.urls),
