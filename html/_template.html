@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+<meta name="description" content="Book catalogue from Gustavo Henrique">
+<meta name="keywords" content="book,books,python,go,java,scrum,agile,javascript,security,linux,network,database">
+<meta http-equiv="last-modified" content="@last_update">
+<link rel="stylesheet" type="text/css" class="ui" href="semantic.min.css" />
+
+<title>Book Catalogue from Gustavo Henrique</title>
+
+</head>
+<body>
+    <div class="ui fixed inverted main menu">
+        <div class="ui container">
+            <div class="header item">Book Catalogue</div>
+            
+            <div class="right menu item">
+                <div class="ui multiple dropdown">
+                    <input id="filters" type="hidden" name="filters">
+                    <i class="filter icon"></i>
+                    <span class="text">Filter</span>
+                    <div class="menu">
+                        <div class="ui icon search input">
+                            <i class="search icon"></i>
+                            <input type="text" placeholder="Search tags...">
+                        </div>
+                        <div class="scrolling menu">
+                            #for @tag in @tags:
+                                <div class="item" data-value="@tag">@tag</div>
+                            #end
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="menu item">
+                <i class="book icon"></i>
+                <span id="displaying">@total</span> / <span>@total</span>
+            </div>
+        </div>
+    </div>
+    <div class="ui segment" style="padding-top:80px;">
+        <div class="ui centered align cards full">
+            #for @book in @books:
+                <div class="card @book.tags_as_css_class">
+                    <div class="image">
+                        <img src="@book.image">
+                    </div>
+                    <div class="content">
+                        <div class="header">@book.title</div>
+                        <div class="meta">
+                            <p>@book.authors</p>
+                        </div>
+                        <div class="description">
+                            <p>
+                                <span>ISBN-10: @book.isbn10</span><br>
+                                <span>ISBN-13: @book.isbn13</span>
+                            </p>
+                            <p>
+                                #for @tag in @book.tags:
+                                    <a class="ui blue label @tag">@tag</a>
+                                #end
+                            </p>
+                        </div>
+                    </div>
+                    <div class="extra content">
+                        <span  class="right floated">@book.publisher</span>
+                        <span>@book.published</span>
+                    </div>
+                </div>
+            #end
+        </div>
+    </div>
+
+    <script src="jquery-3.1.1.min.js"></script>
+    <script src="semantic.min.js"></script>
+    <script src="app.js"></script>
+    <script>
+        $('.dropdown').dropdown();
+    </script>
+</body>
+</html>
+

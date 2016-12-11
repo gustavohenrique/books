@@ -1,13 +1,27 @@
-#Coruja
+# My Books
 
-My personal book catalog
+My personal book catalogue
 
-## Configure
+## Install
 
 ```
-python manage.py makemigrations core
-python manage.py migrate
-python manage.py createsuperuser
-python manage.py runserver 0:8000
+pip install -r requirements
 ```
 
+## Usage
+
+1. Search by the book on http://www.isbnsearch.org
+2. Save the book's page in the *raw* directory
+3. Optional: You can save the cover image in the *images* directory or run another script at the end
+4. Generate a CSV file:
+```
+python generate_csv.py raw
+```
+5. Download cover images if you skip the step 3:
+```
+python download_covers.py raw images
+```
+6. Generate an HTML file:
+```
+python generate_html.py books.csv
+```

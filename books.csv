@@ -1,0 +1,65 @@
+1430268182|9781430268185|2014-08|Prabath Siriwardena|Apress|Advanced API Security: Securing APIs with OAuth 2.0, OpenID Connect, JWS, and JWE|security,api,oauth
+0071832386|9780071832380|2015-01|Daniel Regalado, Shon Harris, Allen Harper, Chris Eagle, Jonathan Ness, Branko Spasojevic, Ryan Linn, Stephen Sims|McGraw-Hill Education|Gray Hat Hacking The Ethical Hacker's Handbook, Fourth Edition|security,hacker
+0134190440|9780134190440|2015-11|Alan A. A. Donovan, Brian W. Kernighan|Addison-Wesley Professional|The Go Programming Language (Addison-Wesley Professional Computing Series)|golang,programming
+0136042597|9780136042594|2009-12|Stuart Russell, Peter Norvig|Pearson|Artificial Intelligence: A Modern Approach (3rd Edition)|ai
+0321784138|9780321784131|2013-08|Mario Cardinal|Addison-Wesley Professional|Executable Specifications with Scrum: A Practical Guide to Agile Requirements Discovery|agile,scrum
+0321832043|9780321832047|2012-11|Kyle Rankin|Addison-Wesley Professional|DevOps Troubleshooting: Linux Server Best Practices|devops,linux
+1118770544|9781118770542|2014-10|Daniel Richardson|For Dummies|Social Psychology For Dummies|psychology
+1118828046|9781118828045|2014-03|Mark Zegarelli|For Dummies|Basic Math and Pre-Algebra Workbook For Dummies|math
+1118987128|9781118987124|2015-08|Matthew Monte|Wiley|Network Attacks and Exploitation: A Framework|security,hacker,network
+1119062764|9781119062769|2015-06|Marty Lewinter, Jeanine Meyer|Wiley|Elementary Number Theory with Programming|math
+1449319432|9781449319434|2012-09|Jan Goyvaerts, Steven Levithan|O'Reilly Media|Regular Expressions Cookbook: Detailed Solutions in Eight Programming Languages|regex
+1449331920|9781449331924|2013-12|Andrew Stellman, Jennifer Greene|O'Reilly Media|Learning Agile: Understanding Scrum, XP, Lean, and Kanban|agile,scrum,xp,lean,kanban
+1449342574|9781449342579|2017-01|Mike Ryan, Federico Lucifredi|O'Reilly Media|AWS System Administration: Best Practices for Sysadmins in the Amazon Cloud|aws,network
+1449392687|9781449392680|2012-08|Michael Fitzgerald|O'Reilly Media|Introducing Regular Expressions: Unraveling Regular Expressions, Step-by-Step|regex
+1466592613|9781466592612|2015-04|Hanqing Wu, Liz Zhao|Auerbach Publications|Web Security: A WhiteHat Perspective|security,hacker
+1484204042|9781484204047|2014-12|Phillip Whitt|Apress|Beginning Photo Retouching and Restoration Using GIMP|gimp,image
+1484210530|9781484210536|2015-11|Shiju Varghese|Apress|Web Development with Go: Building Scalable Web Apps and RESTful Services|golang,api,rest
+1484218531|9781484218532|2016-07|Aravind Shenoy, Anirudh Prabhu|Apress|Introducing SEO: Your quick-start guide to effective SEO practices|seo
+1484218566|9781484218563|2016-07|Ric Messier|Apress|Penetration Testing Basics: A Quick-Start Guide to Breaking into Systems|security,hacker,pentest
+1491904615|9781491904619|2015-03|Arnold Robbins|O'Reilly Media|Effective awk Programming: Universal Text Processing and Pattern Matching|awk,shell
+1491909900|9781491909904|2015-11|Yevgeniy Brikman|O'Reilly Media|Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams|startup,business
+1491917571|9781491917572|2015-07|Karl Matthias, Sean P. Kane|O'Reilly Media|Docker: Up & Running: Shipping Reliable Containers in Production|devops,docker
+1491924543|9781491924549|2016-08|Siraj Raval|O'Reilly Media|Decentralized Applications: Harnessing Bitcoin's Blockchain Technology|bitcoin
+1491941952|9781491941959|2016-02|Caleb Doxsey|O'Reilly Media|Introducing Go: Build Reliable, Scalable Programs|golang
+1491946008|9781491946008|2015-08|Luciano Ramalho|O'Reilly Media|Fluent Python: Clear, Concise, and Effective Programming|python
+1491949643|9781491949641|2015-12|Samantha Kleinberg|O'Reilly Media|Why: A Guide to Finding and Using Causes|misc
+1491956259|9781491956250|2016-08|Irakli Nadareishvili, Ronnie Mitra, Matt McLarty, Mike Amundsen|O'Reilly Media|Microservice Architecture: Aligning Principles, Practices, and Culture|devops,microservice
+1511797568|9781511797566|2015-04|Earnest Wish|CreateSpace Independent Publishing Platform|Python Hacking Essentials|python,hacker
+1593273886|9781593273880|2011-11|Michal Zalewski|No Starch Press|The Tangled Web: A Guide to Securing Modern Web Applications|programming
+1593275919|9781593275914|2015-10|Daniel Higginbotham|No Starch Press|Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer|clojure
+1617291528|9781617291524|2016-01|Amit Rathore, Francis Avila|Manning Publications|Clojure in Action|clojure
+1617291625|9781617291623|2015-12|Radu Gheorghe, Matthew Lee Hinman, Roy Russo|Manning Publications|Elasticsearch in Action|elasticsearch
+161729201X|9781617292019|2015-06|SaÅ¡a Juri&cacute;|Manning Publications|Elixir in Action|elixir
+1617292885|9781617292880|2015-10|Andreas Wittig, Michael Wittig|Manning Publications|Amazon Web Services in Action|aws
+1633430235|9781633430235|2016-03|Jeff Nickoloff|Manning Publications|Docker in Action|devops,docker
+1680500414|9781680500417|2015-02|Chris McCord|Pragmatic Bookshelf|Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)|elixir
+1680500740|9781680500745|2015-09|Ben Vandgrift, Alex Miller|Pragmatic Bookshelf|Clojure Applied: From Practice to Practitioner|clojure
+1680500821|9781680500820|2016-07|Dmitri Sotnikov|Pragmatic Bookshelf|Web Development with Clojure: Build Bulletproof Web Apps with Less Code|clojure
+178216040X|9781782160403|2013-01|Roberto Moutinho|Packt Publishing|Instant Varnish Cache How-to|devops,varnish,cache
+1782163182|9781782163183|2015-01|Aaron Johns|Packt Publishing|Mastering Wireless Penetration Testing for Highly-Secured Environments|security,network,hacker,pentest
+1782164367|9781782164364|2015-10|Richard Lawson|Packt Publishing|Web Scraping with Python (Community Experience Distilled)|python,scraping
+1782167102|9781782167105|2016-02|"Ryan ""elfmaster"" O'Neill"|Packt Publishing|Learning Linux Binary Analysis|security,hacker,linux
+1782173633|9781782173632|2015-06|Uchit Vyas|Packt Publishing|Mastering AWS Development|aws
+1782177345|9781782177340|2015-05|Marcus Young|Packt Publishing|Implementing Cloud Design Patterns for AWS|aws
+1783283270|9781783283279|2013-12|Rahul Singh Patel|Packt Publishing|Kali Linux Social Engineering|security,hacker,pentest,kali
+1784392510|9781784392512|2015-10|Unmesh Gundecha|Packt Publishing|Selenium Testing Tools Cookbook - Second Edition|testing,selenium
+1784392936|9781784392932|2015-06|Cameron Buchanan, Terry Ip, Andrew Mabbitt, Benjamin May, Dave Mound|Packt Publishing|Python Web Penetration Testing Cookbook|python,hacker,pentest
+1784393940|9781784393946|2015-03|Oskar Hane|Packt Publishing|Build Your Own PaaS with Docker|devops,docker,paas
+1784397512|9781784397517|2015-02|Paulo A Pereira|Packt Publishing|Elixir Cookbook|elixir
+1784397938|9781784397937|2015-05|Pethuru Raj, Jeeva S. Chelladhurai, Vinod Singh|Packt Publishing|Learning Docker|devops,docker
+1784398586|9781784398583|2015-02|Mohit|Packt Publishing|Python Penetration Testing Essentials|python,hacker,pentest
+1785285564|9781785285561|2016-02|Jilumudi Raghu Ram, Brian Sak|Packt Publishing|Mastering Kali Linux Wireless Pentesting|hacker,pentest,kali
+1785289284|9781785289286|2016-01|Timothy Washington|Packt Publishing|Clojure for Finance|clojure
+1785881744|9781785881749|2016-01|Kenny Ballou|Packt Publishing|Learning Elixir|elixir
+1785887637|9781785887635|2016-08|W. David Jarvis, Rafik Naccache, Allen Rohner|Packt Publishing|Learning ClojureScript|clojure
+1785888420|9781785888427|2016-09|Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali|Packt Publishing|Kali Linux 2 Assuring Security by Penetration Testing - Third Edition|hacker,pentest,kali
+1786463148|9781786463142|2016-06|Russ McKendrick|Packt Publishing|Extending Docker|devops,docker
+1847198643|9781847198648|2009-11|Alistair McDonald, Ian Haycox, Magnus BÃ¤ck, Carl Taylor, David Rusenko, Patrick Ben Koetter, Ralf Hilderbrandt|Packt Publishing|Linux Email|network,linux,mail
+1849519846|9781849519847|2012-11|Yauheni V. Pankov|Packt Publishing|Network Backup with Bacula [How-to]|network,linux,bacula
+1849688028|9781849688024|2013-04|Stacia Viscardi|Packt Publishing|The Professional Scrum Master's Handbook (Professional Expertise Distilled)|agile,scrum
+1907117040|9781907117046|2014-08|Ivan Ristic|Feisty Duck|Bulletproof SSL and TLS: Understanding and Deploying SSL/TLS and PKI to Secure Servers and Web Applications|security,linux,ssl
+1937785335|9781937785338|2013-07|Mark C. Chu-Carroll|Pragmatic Bookshelf|Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation (Pragmatic Programmers)|math
+1937785718|9781937785710|2013-11|Portia Tung|Pragmatic Bookshelf|The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques|startup,agile,leadership
+1941222153|9781941222157|2014-11|Bruce Tate, Ian Dees, Frederic Daoud, Jack Moffitt|Pragmatic Bookshelf|Seven More Languages in Seven Weeks: Languages That Are Shaping the Future|programming
+8521615191|9788521615194|2007-12|Luis Manuel Dias Damas|Ltc|Linguagem C|clang,portuguese
