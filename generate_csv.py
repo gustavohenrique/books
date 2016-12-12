@@ -44,8 +44,8 @@ def parse(content):
     data.append(['Title', div.select_one('h2').get_text()])
     return data
 
-def to_csv(books):
-    with open('books.csv', 'w') as csvfile:
+def to_csv(books, out):
+    with open(out, 'w') as csvfile:
         fieldnames = ['ISBN-10', 'ISBN-13', 'Published', 'Authors', 'Publisher', 'Title', 'Tags']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, lineterminator='\n', delimiter='|') #csv.excel_tab.delimiter)
         #writer = csv.writer(csvfile, lineterminator='\n', delimiter='|') #csv.excel_tab.delimiter)
@@ -82,5 +82,5 @@ if __name__ == '__main__':
             book = to_dict(data)
             books.append(book)
 
-    to_csv(books)
+    to_csv(books, sys.argv[2])
 
