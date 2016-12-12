@@ -46,7 +46,7 @@
             #for @book in @books:
                 <div class="card @book.tags_as_css_class">
                     <div class="image">
-                        <img src="@book.image">
+                        <img src="@book.image" alt="@book.slug" title="@book.title">
                     </div>
                     <div class="content">
                         <div class="header">@book.title</div>
