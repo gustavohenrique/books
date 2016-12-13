@@ -101,4 +101,29 @@
 1934356557|9781934356555|2010-07|Bill Karwin|Pragmatic Bookshelf|SQL Antipatterns: Avoiding the Pitfalls of Database Programming|database,sql
 1934356905|9781934356906|2012-03|Mike Riley|Pragmatic Bookshelf|Programming Your Home: Automate with Arduino, Android, and Your Computer|arduino,iot
 1935182870|9781935182870|2011-12|Kyle Banker|Manning Publications|MongoDB in Action|database,mongodb
-8566250494|9788566250497|2014-12|Caio Filipini|CASA DO CODIGO|Programando em Go: Crie Aplicacoes Com a Linguagem do Google|golang
+8566250494|9788566250497|2014-12|Caio Filipini|CASA DO CODIGO|Programando em Go: Crie Aplicacoes Com a Linguagem do Google|golang,ptbr
+8566250125|9788566250121|2013-12|Andre Faria Gomes|CASA DO CODIGO|Agile: Desenvolvimento de Software Com Entregas Frequentes e Foco no Valor de Negocio|agile,ptbr
+B00CBM1WFC|000B00CBM1WFC|2013-04|Mandi Walls|Amazon Digital Services|Building a DevOps Culture|devops
+B00VAAM7LE|000B00VAAM7LE|2014-04|Chad Fowler|Amazon Digital Services|O Programador Apaixonado: Construindo uma carreira notavel em desenvolvimento de software|programming,ptbr
+B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agil para projetos de sucesso|agile,scrum,ptbr
+0073375977|9780073375977|2009-01|Roger Pressman|McGraw-Hill Education|Software Engineering: A Practitioner's Approach|programming
+0132350882|9780132350884|2008-08|Robert C. Martin|Prentice Hall|Clean Code: A Handbook of Agile Software Craftsmanship|agile,programming,tests
+0134032802|9780134032801|2015-06|Martin L. Abbott, Michael T. Fisher|Addison-Wesley Professional|The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2nd Edition)|devops,programming
+020161622X|9780201616224|1999-10|Andrew Hunt, David Thomas|Addison-Wesley Professional|The Pragmatic Programmer: From Journeyman to Master|programming
+0201616416|9780201616415|1999-10|Kent Beck|Addison-Wesley Professional|Extreme Programming Explained: Embrace Change|agile,programming
+0201633612|9780201633610|1994-11|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|Addison-Wesley Professional|Design Patterns: Elements of Reusable Object-Oriented Software|programming
+0262033844|9780262033848|2009-07|Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein|The MIT Press|Introduction to Algorithms, 3rd Edition|programming
+0321146530|9780321146533|2002-11|Kent Beck|Addison-Wesley Professional|Test Driven Development: By Example|programming,tests
+0321503627|9780321503626|2009-10|Steve Freeman, Nat Pryce|Addison-Wesley Professional|Growing Object-Oriented Software, Guided by Tests|programming,tests
+0470920416|9780470920411|2011-01|Joshua Davies|Wiley|Implementing SSL / TLS Using Cryptography and PKI|security,programming
+0596007124|9780596007126|2004-10|Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson|O'Reilly Media|Head First Design Patterns: A Brain-Friendly Guide|programming
+0596801688|9780596801687|2010-03|Subbu Allamaraju|Yahoo Press|RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity|programming,rest
+0735679665|9780735679665|2013-08|Karl Wiegers, Joy Beatty|Microsoft Press|Software Requirements (3rd Edition)|programming
+0978739213|9780978739218|2007-04|Michael T. Nygard|Pragmatic Bookshelf|Release It!: Design and Deploy Production-Ready Software|devops,programming
+1449304818|9781449304812|2011-07|Stephen Nelson-Smith|O'Reilly Media|Test-Driven Infrastructure with Chef|devops,chef
+1449305350|9781449305352|2011-07|John Ferguson Smart|O'Reilly Media|Jenkins: The Definitive Guide: Continuous Integration for the Masses|devops,jenkins
+1449334903|9781449334901|2013-08|Lucas Carlson|O'Reilly Media|Programming for PaaS: A Practical Guide to Coding for Platform-as-a-Service|programming,paas
+1491950358|9781491950357|2015-02|Sam Newman|O'Reilly Media|Building Microservices: Designing Fine-Grained Systems|programming,microservice
+1849517401|9781849517409|2012-06|Alan Berg|Packt Publishing|Jenkins Continuous Integration Cookbook|devops,jenkins
+1933988274|9781933988276|2009-07|Roy Osherove|Manning Publications|The Art of Unit Testing: with Examples in .NET|programming,tests
+8566250044|9788566250046|2012-12|Mauricio Aniche|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real com Java|programming,tests
