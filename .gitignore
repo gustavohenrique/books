@@ -2,3 +2,4 @@
 *.db
 media
 static
+.DS_Store

@@ -76,3 +76,5 @@ if __name__ == '__main__':
     books = sort_by_title(books)
     tags = get_unique_tags_from(books)
     to_html(books=books, tags=tags)
+    print 'Success'
+

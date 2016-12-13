@@ -55,14 +55,14 @@
 1785887637|9781785887635|2016-08|W. David Jarvis, Rafik Naccache, Allen Rohner|Packt Publishing|Learning ClojureScript|clojure
 1785888420|9781785888427|2016-09|Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali|Packt Publishing|Kali Linux 2 Assuring Security by Penetration Testing - Third Edition|hacker,pentest,kali
 1786463148|9781786463142|2016-06|Russ McKendrick|Packt Publishing|Extending Docker|devops,docker
-1847198643|9781847198648|2009-11|Alistair McDonald, Ian Haycox, Magnus BÃ¤ck, Carl Taylor, David Rusenko, Patrick Ben Koetter, Ralf Hilderbrandt|Packt Publishing|Linux Email|network,linux,mail
+1847198643|9781847198648|2009-11|Alistair McDonald, Ian Haycox, Magnus Back, Carl Taylor, David Rusenko, Patrick Ben Koetter, Ralf Hilderbrandt|Packt Publishing|Linux Email|network,linux,mail
 1849519846|9781849519847|2012-11|Yauheni V. Pankov|Packt Publishing|Network Backup with Bacula [How-to]|network,linux,bacula
 1849688028|9781849688024|2013-04|Stacia Viscardi|Packt Publishing|The Professional Scrum Master's Handbook (Professional Expertise Distilled)|agile,scrum
 1907117040|9781907117046|2014-08|Ivan Ristic|Feisty Duck|Bulletproof SSL and TLS: Understanding and Deploying SSL/TLS and PKI to Secure Servers and Web Applications|security,linux,ssl
 1937785335|9781937785338|2013-07|Mark C. Chu-Carroll|Pragmatic Bookshelf|Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation (Pragmatic Programmers)|math
 1937785718|9781937785710|2013-11|Portia Tung|Pragmatic Bookshelf|The Dream Team Nightmare: Boost Team Productivity Using Agile Techniques|startup,agile,leadership
 1941222153|9781941222157|2014-11|Bruce Tate, Ian Dees, Frederic Daoud, Jack Moffitt|Pragmatic Bookshelf|Seven More Languages in Seven Weeks: Languages That Are Shaping the Future|programming
-8521615191|9788521615194|2007-12|Luis Manuel Dias Damas|Ltc|Linguagem C|clang,portuguese
+8521615191|9788521615194|2007-12|Luis Manuel Dias Damas|Ltc|Linguagem C|clang,ptbr
 1491915323|9781491915325|2015-05|Lorin Hochstein|O'Reilly Media|Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way|devops,ansible
 1118941098|9781118941096|2014-11|Michael J. Crawley|Wiley|Statistics: An Introduction Using R|math,rlang
 1449323898|9781449323899|2015-12|Morgan Quigley, Brian Gerkey, William D. Smart|O'Reilly Media|Programming Robots with ROS: A Practical Introduction to the Robot Operating System|robot
@@ -84,3 +84,21 @@
 1785289586|9781785289583|2015-09|Giancarlo Zaccone|Packt Publishing|Python Parallel Programming Cookbook|python
 1785883283|9781785883286|2016-05|Scott Coulton|Packt Publishing|Puppet for Containerization|devops,puppet
 178646604X|9781786466044|2016-05|Vincent Theron, Michael Diamant|Packt Publishing|Scala High Performance Programming|scala
+8565424004|9788565424004|2012-01|Ysmar Vianna, Mauricio Vianna, Adler, K. Isabel|MJV Press|Design Thinking - Inovacao Em Negocios|business,startup,lean,ptbr
+8565424097|9788565424097|2013-12|Mauricio Vianna, Ysmar Vianna, Bruno Medina, Samara Tanaka, Marcio Krug|MJV Press|Gamification, Inc. - Como reinventar empresas a partir de jogos|gamification,ptbr
+8183222609|9788183222600|2012-02|Robert T. Kiyosaki|Manjul Publishing House|The Business of the 21st Century|business,finance
+0387848576|9780387848570|2011-04|Trevor Hastie, Robert Tibshirani, Jerome Friedman|Springer|The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition|math,datamining
+0521766338|9780521766333|2014-05|Mohammed J. Zaki, Wagner Meira  Jr|Cambridge University Press|Data Mining and Analysis: Fundamental Concepts and Algorithms|math,datamining
+0764558943|9780764558948|2004-07|Mike Outmesguine|Wiley|Wi-Fi Toys: 15 Cool Wireless Projects for Home, Office, and Entertainment|network,wireless
+1449304613|9781449304614|2011-05|Kristina Chodorow|O'Reilly Media|50 Tips and Tricks for MongoDB Developers: Get the Most Out of Your Database|database,mongodb
+1449394701|9781449394707|2012-04|Chas Emerick, Brian Carper, Christophe Grand|O'Reilly Media|Clojure Programming: Practical Lisp for the Java World|clojure
+1461471370|9781461471370|2013-08|Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani|Springer|An Introduction to Statistical Learning: with Applications in R|math,rlang
+1590594789|9781590594780|2005-04|Richard Stones, Neil Matthew|Apress|Beginning Databases with PostgreSQL: From Novice to Professional|database,postgres
+1590597583|9781590597583|2006-12|Graeme Rocher|Apress|The Definitive Guide to Grails|grails
+1617290963|9781617290961|2014-07|Peter Ledbrook, Glen Smith|Manning Publications|Grails in Action|grails
+1680501275|9781680501278|2015-11|Drew Neil|Pragmatic Bookshelf|Practical Vim: Edit Text at the Speed of Thought|vim
+1847199941|9781847199942|2010-04|Alex Davies|Packt Publishing|High Availability MySQL Cookbook|database,mysql
+1934356557|9781934356555|2010-07|Bill Karwin|Pragmatic Bookshelf|SQL Antipatterns: Avoiding the Pitfalls of Database Programming|database,sql
+1934356905|9781934356906|2012-03|Mike Riley|Pragmatic Bookshelf|Programming Your Home: Automate with Arduino, Android, and Your Computer|arduino,iot
+1935182870|9781935182870|2011-12|Kyle Banker|Manning Publications|MongoDB in Action|database,mongodb
+8566250494|9788566250497|2014-12|Caio Filipini|CASA DO CODIGO|Programando em Go: Crie Aplicacoes Com a Linguagem do Google|golang
