@@ -6,18 +6,31 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 <meta name="description" content="Book catalogue from Gustavo Henrique">
 <meta name="keywords" content="book,books,python,go,java,scrum,agile,javascript,security,linux,network,database">
-<meta http-equiv="last-modified" content="2016-12-13">
+<meta http-equiv="last-modified" content="2016-12-14">
 <link rel="stylesheet" type="text/css" class="ui" href="semantic.min.css" />
 
 <title>Book Catalogue from Gustavo Henrique</title>
 
 <script src="jquery-3.1.1.min.js"></script>
 <script src="semantic.min.js"></script>
-<script src="app.js"></script>
+<script>
+function showBooksByTags () {
+    var tags = $(this).val(); //.split(',');
+    var cards = $('.card');
+    if (tags.length > 0 && tags[0].length > 1) {
+        cards.hide();
+        tags.forEach(function (item) {
+            $('.card.' + item).show();
+        });
+    }
+    else {
+        cards.show();
+    }
+    var totalVisible = $('.card:visible').length;
+    $('#displaying').html(totalVisible);
+}
+</script>
 
-	<script>
-		$('.dropdown').dropdown();
-	</script>
 </head>
 <body>
     <div class="ui fixed inverted main menu">
@@ -25,207 +38,198 @@
             <div class="header item">Book Catalogue</div>
 
             <div class="right menu item">
-                <div class="ui multiple dropdown">
-                    <input id="filters" type="hidden" name="filters">
-                    <i class="filter icon"></i>
-                    <span class="text">Filter</span>
-                    <div class="menu">
-                        <div class="ui icon search input">
-                            <i class="search icon"></i>
-                            <input type="text" placeholder="Search tags...">
-                        </div>
-                        <div class="scrolling menu">
-                            
-                                <div class="item" data-value=""></div>
-                            
-                                <div class="item" data-value="agile">agile</div>
-                            
-                                <div class="item" data-value="ai">ai</div>
-                            
-                                <div class="item" data-value="android">android</div>
-                            
-                                <div class="item" data-value="angularjs">angularjs</div>
-                            
-                                <div class="item" data-value="ansible">ansible</div>
-                            
-                                <div class="item" data-value="api">api</div>
-                            
-                                <div class="item" data-value="arduino">arduino</div>
-                            
-                                <div class="item" data-value="awk">awk</div>
-                            
-                                <div class="item" data-value="aws">aws</div>
-                            
-                                <div class="item" data-value="bacula">bacula</div>
-                            
-                                <div class="item" data-value="bigdata">bigdata</div>
-                            
-                                <div class="item" data-value="bitcoin">bitcoin</div>
-                            
-                                <div class="item" data-value="bootstrap">bootstrap</div>
-                            
-                                <div class="item" data-value="business">business</div>
-                            
-                                <div class="item" data-value="cache">cache</div>
-                            
-                                <div class="item" data-value="chef">chef</div>
-                            
-                                <div class="item" data-value="clang">clang</div>
-                            
-                                <div class="item" data-value="clojure">clojure</div>
-                            
-                                <div class="item" data-value="d3">d3</div>
-                            
-                                <div class="item" data-value="database">database</div>
-                            
-                                <div class="item" data-value="datamining">datamining</div>
-                            
-                                <div class="item" data-value="design">design</div>
-                            
-                                <div class="item" data-value="devops">devops</div>
-                            
-                                <div class="item" data-value="docker">docker</div>
-                            
-                                <div class="item" data-value="elasticsearch">elasticsearch</div>
-                            
-                                <div class="item" data-value="elixir">elixir</div>
-                            
-                                <div class="item" data-value="finance">finance</div>
-                            
-                                <div class="item" data-value="games">games</div>
-                            
-                                <div class="item" data-value="gamification">gamification</div>
-                            
-                                <div class="item" data-value="gerrit">gerrit</div>
-                            
-                                <div class="item" data-value="gimp">gimp</div>
-                            
-                                <div class="item" data-value="golang">golang</div>
-                            
-                                <div class="item" data-value="grails">grails</div>
-                            
-                                <div class="item" data-value="graph">graph</div>
-                            
-                                <div class="item" data-value="hacker">hacker</div>
-                            
-                                <div class="item" data-value="html5">html5</div>
-                            
-                                <div class="item" data-value="iaas">iaas</div>
-                            
-                                <div class="item" data-value="image">image</div>
-                            
-                                <div class="item" data-value="ios">ios</div>
-                            
-                                <div class="item" data-value="iot">iot</div>
-                            
-                                <div class="item" data-value="javascript">javascript</div>
-                            
-                                <div class="item" data-value="jenkins">jenkins</div>
-                            
-                                <div class="item" data-value="kali">kali</div>
-                            
-                                <div class="item" data-value="kanban">kanban</div>
-                            
-                                <div class="item" data-value="kubernetes">kubernetes</div>
-                            
-                                <div class="item" data-value="leadership">leadership</div>
-                            
-                                <div class="item" data-value="lean">lean</div>
-                            
-                                <div class="item" data-value="linux">linux</div>
-                            
-                                <div class="item" data-value="mail">mail</div>
-                            
-                                <div class="item" data-value="math">math</div>
-                            
-                                <div class="item" data-value="microservice">microservice</div>
-                            
-                                <div class="item" data-value="misc">misc</div>
-                            
-                                <div class="item" data-value="mobile">mobile</div>
-                            
-                                <div class="item" data-value="mongodb">mongodb</div>
-                            
-                                <div class="item" data-value="mysql">mysql</div>
-                            
-                                <div class="item" data-value="network">network</div>
-                            
-                                <div class="item" data-value="nginx">nginx</div>
-                            
-                                <div class="item" data-value="oauth">oauth</div>
-                            
-                                <div class="item" data-value="openshift">openshift</div>
-                            
-                                <div class="item" data-value="openstack">openstack</div>
-                            
-                                <div class="item" data-value="paas">paas</div>
-                            
-                                <div class="item" data-value="pentest">pentest</div>
-                            
-                                <div class="item" data-value="postgres">postgres</div>
-                            
-                                <div class="item" data-value="programming">programming</div>
-                            
-                                <div class="item" data-value="psychology">psychology</div>
-                            
-                                <div class="item" data-value="ptbr">ptbr</div>
-                            
-                                <div class="item" data-value="puppet">puppet</div>
-                            
-                                <div class="item" data-value="python">python</div>
-                            
-                                <div class="item" data-value="rails">rails</div>
-                            
-                                <div class="item" data-value="regex">regex</div>
-                            
-                                <div class="item" data-value="rest">rest</div>
-                            
-                                <div class="item" data-value="rlang">rlang</div>
-                            
-                                <div class="item" data-value="robot">robot</div>
-                            
-                                <div class="item" data-value="ruby">ruby</div>
-                            
-                                <div class="item" data-value="scala">scala</div>
-                            
-                                <div class="item" data-value="scraping">scraping</div>
-                            
-                                <div class="item" data-value="scrum">scrum</div>
-                            
-                                <div class="item" data-value="security">security</div>
-                            
-                                <div class="item" data-value="selenium">selenium</div>
-                            
-                                <div class="item" data-value="seo">seo</div>
-                            
-                                <div class="item" data-value="shell">shell</div>
-                            
-                                <div class="item" data-value="spark">spark</div>
-                            
-                                <div class="item" data-value="sql">sql</div>
-                            
-                                <div class="item" data-value="ssl">ssl</div>
-                            
-                                <div class="item" data-value="startup">startup</div>
-                            
-                                <div class="item" data-value="testing">testing</div>
-                            
-                                <div class="item" data-value="tests">tests</div>
-                            
-                                <div class="item" data-value="varnish">varnish</div>
-                            
-                                <div class="item" data-value="vim">vim</div>
-                            
-                                <div class="item" data-value="webrtc">webrtc</div>
-                            
-                                <div class="item" data-value="wireless">wireless</div>
-                            
-                                <div class="item" data-value="xp">xp</div>
-                            
-                                <div class="item" data-value="zabbix">zabbix</div>
-                                                    </div>
-                    </div>
-                </div>
+				<i class="filter icon"></i>
+				<select name="filter" id="filter" class="ui selection search dropdown" multiple="">
+					<option value="">Filter</option>
+					
+					    <option value=""></option>
+					
+					    <option value="agile">agile</option>
+					
+					    <option value="ai">ai</option>
+					
+					    <option value="android">android</option>
+					
+					    <option value="angularjs">angularjs</option>
+					
+					    <option value="ansible">ansible</option>
+					
+					    <option value="api">api</option>
+					
+					    <option value="arduino">arduino</option>
+					
+					    <option value="awk">awk</option>
+					
+					    <option value="aws">aws</option>
+					
+					    <option value="bacula">bacula</option>
+					
+					    <option value="bigdata">bigdata</option>
+					
+					    <option value="bitcoin">bitcoin</option>
+					
+					    <option value="bootstrap">bootstrap</option>
+					
+					    <option value="business">business</option>
+					
+					    <option value="cache">cache</option>
+					
+					    <option value="chef">chef</option>
+					
+					    <option value="clang">clang</option>
+					
+					    <option value="clojure">clojure</option>
+					
+					    <option value="d3">d3</option>
+					
+					    <option value="database">database</option>
+					
+					    <option value="datamining">datamining</option>
+					
+					    <option value="design">design</option>
+					
+					    <option value="devops">devops</option>
+					
+					    <option value="docker">docker</option>
+					
+					    <option value="elasticsearch">elasticsearch</option>
+					
+					    <option value="elixir">elixir</option>
+					
+					    <option value="finance">finance</option>
+					
+					    <option value="games">games</option>
+					
+					    <option value="gamification">gamification</option>
+					
+					    <option value="gerrit">gerrit</option>
+					
+					    <option value="gimp">gimp</option>
+					
+					    <option value="golang">golang</option>
+					
+					    <option value="grails">grails</option>
+					
+					    <option value="graph">graph</option>
+					
+					    <option value="hacker">hacker</option>
+					
+					    <option value="html5">html5</option>
+					
+					    <option value="iaas">iaas</option>
+					
+					    <option value="image">image</option>
+					
+					    <option value="ios">ios</option>
+					
+					    <option value="iot">iot</option>
+					
+					    <option value="javascript">javascript</option>
+					
+					    <option value="jenkins">jenkins</option>
+					
+					    <option value="kali">kali</option>
+					
+					    <option value="kanban">kanban</option>
+					
+					    <option value="kubernetes">kubernetes</option>
+					
+					    <option value="leadership">leadership</option>
+					
+					    <option value="lean">lean</option>
+					
+					    <option value="linux">linux</option>
+					
+					    <option value="mail">mail</option>
+					
+					    <option value="math">math</option>
+					
+					    <option value="microservice">microservice</option>
+					
+					    <option value="misc">misc</option>
+					
+					    <option value="mobile">mobile</option>
+					
+					    <option value="mongodb">mongodb</option>
+					
+					    <option value="mysql">mysql</option>
+					
+					    <option value="network">network</option>
+					
+					    <option value="nginx">nginx</option>
+					
+					    <option value="oauth">oauth</option>
+					
+					    <option value="openshift">openshift</option>
+					
+					    <option value="openstack">openstack</option>
+					
+					    <option value="paas">paas</option>
+					
+					    <option value="pentest">pentest</option>
+					
+					    <option value="postgres">postgres</option>
+					
+					    <option value="programming">programming</option>
+					
+					    <option value="psychology">psychology</option>
+					
+					    <option value="ptbr">ptbr</option>
+					
+					    <option value="puppet">puppet</option>
+					
+					    <option value="python">python</option>
+					
+					    <option value="rails">rails</option>
+					
+					    <option value="regex">regex</option>
+					
+					    <option value="rest">rest</option>
+					
+					    <option value="rlang">rlang</option>
+					
+					    <option value="robot">robot</option>
+					
+					    <option value="ruby">ruby</option>
+					
+					    <option value="scala">scala</option>
+					
+					    <option value="scraping">scraping</option>
+					
+					    <option value="scrum">scrum</option>
+					
+					    <option value="security">security</option>
+					
+					    <option value="selenium">selenium</option>
+					
+					    <option value="seo">seo</option>
+					
+					    <option value="shell">shell</option>
+					
+					    <option value="spark">spark</option>
+					
+					    <option value="sql">sql</option>
+					
+					    <option value="ssl">ssl</option>
+					
+					    <option value="startup">startup</option>
+					
+					    <option value="testing">testing</option>
+					
+					    <option value="tests">tests</option>
+					
+					    <option value="varnish">varnish</option>
+					
+					    <option value="vim">vim</option>
+					
+					    <option value="webrtc">webrtc</option>
+					
+					    <option value="wireless">wireless</option>
+					
+					    <option value="xp">xp</option>
+					
+					    <option value="zabbix">zabbix</option>
+					                </select>
             </div>
             <div class="menu item">
                 <i class="book icon"></i>
@@ -4311,6 +4315,12 @@
                     </div>
     </div>
 
+	<script>
+		$('.dropdown').dropdown({
+			maxSelections: 3,
+			onChange: showBooksByTags
+		});
+	</script>
 
 	<!-- GoStats JavaScript Based Code -->
 	<script type="text/javascript" src="http://gostats.com/js/counter.js"></script>

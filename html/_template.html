@@ -13,7 +13,24 @@
 
 <script src="jquery-3.1.1.min.js"></script>
 <script src="semantic.min.js"></script>
-<script src="app.js"></script>
+<script>
+function showBooksByTags () {
+    var tags = $(this).val(); //.split(',');
+    var cards = $('.card');
+    if (tags.length > 0 && tags[0].length > 1) {
+        cards.hide();
+        tags.forEach(function (item) {
+            $('.card.' + item).show();
+        });
+    }
+    else {
+        cards.show();
+    }
+    var totalVisible = $('.card:visible').length;
+    $('#displaying').html(totalVisible);
+}
+</script>
+
 </head>
 <body>
     <div class="ui fixed inverted main menu">
@@ -21,22 +38,13 @@
             <div class="header item">Book Catalogue</div>
 
             <div class="right menu item">
-                <div class="ui multiple dropdown">
-                    <input id="filters" type="hidden" name="filters">
-                    <i class="filter icon"></i>
-                    <span class="text">Filter</span>
-                    <div class="menu">
-                        <div class="ui icon search input">
-                            <i class="search icon"></i>
-                            <input type="text" placeholder="Search tags...">
-                        </div>
-                        <div class="scrolling menu">
-                            #for @tag in @tags:
-                                <div class="item" data-value="@tag">@tag</div>
-                            #end
-                        </div>
-                    </div>
-                </div>
+				<i class="filter icon"></i>
+				<select name="filter" id="filter" class="ui selection search dropdown" multiple="">
+					<option value="">Filter</option>
+					#for @tag in @tags:
+					    <option value="@tag">@tag</option>
+					#end
+                </select>
             </div>
             <div class="menu item">
                 <i class="book icon"></i>
@@ -79,7 +87,10 @@
     </div>
 
 	<script>
-		$('.dropdown').dropdown();
+		$('.dropdown').dropdown({
+			maxSelections: 3,
+			onChange: showBooksByTags
+		});
 	</script>
 
 	<!-- GoStats JavaScript Based Code -->
