@@ -107,14 +107,14 @@ B00CBM1WFC|000B00CBM1WFC|2013-04|Mandi Walls|Amazon Digital Services|Building a 
 B00VAAM7LE|000B00VAAM7LE|2014-04|Chad Fowler|Amazon Digital Services|O Programador Apaixonado: Construindo uma carreira notavel em desenvolvimento de software|programming,ptbr
 B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agil para projetos de sucesso|agile,scrum,ptbr
 0073375977|9780073375977|2009-01|Roger Pressman|McGraw-Hill Education|Software Engineering: A Practitioner's Approach|programming
-0132350882|9780132350884|2008-08|Robert C. Martin|Prentice Hall|Clean Code: A Handbook of Agile Software Craftsmanship|agile,programming,tests
+0132350882|9780132350884|2008-08|Robert C. Martin|Prentice Hall|Clean Code: A Handbook of Agile Software Craftsmanship|agile,programming,test
 0134032802|9780134032801|2015-06|Martin L. Abbott, Michael T. Fisher|Addison-Wesley Professional|The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2nd Edition)|devops,programming
 020161622X|9780201616224|1999-10|Andrew Hunt, David Thomas|Addison-Wesley Professional|The Pragmatic Programmer: From Journeyman to Master|programming
 0201616416|9780201616415|1999-10|Kent Beck|Addison-Wesley Professional|Extreme Programming Explained: Embrace Change|agile,programming
 0201633612|9780201633610|1994-11|Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides|Addison-Wesley Professional|Design Patterns: Elements of Reusable Object-Oriented Software|programming
 0262033844|9780262033848|2009-07|Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein|The MIT Press|Introduction to Algorithms, 3rd Edition|programming
-0321146530|9780321146533|2002-11|Kent Beck|Addison-Wesley Professional|Test Driven Development: By Example|programming,tests
-0321503627|9780321503626|2009-10|Steve Freeman, Nat Pryce|Addison-Wesley Professional|Growing Object-Oriented Software, Guided by Tests|programming,tests
+0321146530|9780321146533|2002-11|Kent Beck|Addison-Wesley Professional|Test Driven Development: By Example|programming,test
+0321503627|9780321503626|2009-10|Steve Freeman, Nat Pryce|Addison-Wesley Professional|Growing Object-Oriented Software, Guided by Tests|programming,test
 0470920416|9780470920411|2011-01|Joshua Davies|Wiley|Implementing SSL / TLS Using Cryptography and PKI|security,programming
 0596007124|9780596007126|2004-10|Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson|O'Reilly Media|Head First Design Patterns: A Brain-Friendly Guide|programming
 0596801688|9780596801687|2010-03|Subbu Allamaraju|Yahoo Press|RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity|programming,rest
@@ -125,8 +125,8 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1449334903|9781449334901|2013-08|Lucas Carlson|O'Reilly Media|Programming for PaaS: A Practical Guide to Coding for Platform-as-a-Service|programming,paas
 1491950358|9781491950357|2015-02|Sam Newman|O'Reilly Media|Building Microservices: Designing Fine-Grained Systems|programming,microservice
 1849517401|9781849517409|2012-06|Alan Berg|Packt Publishing|Jenkins Continuous Integration Cookbook|devops,jenkins
-1933988274|9781933988276|2009-07|Roy Osherove|Manning Publications|The Art of Unit Testing: with Examples in .NET|programming,tests
-8566250044|9788566250046|2012-12|Mauricio Aniche|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real com Java|programming,tests
+1933988274|9781933988276|2009-07|Roy Osherove|Manning Publications|The Art of Unit Testing: with Examples in .NET|programming,test
+8566250044|9788566250046|2012-12|Mauricio Aniche|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real com Java|programming,test
 1491961430|9781491961438|2016-09|Grant Shipley, Graham Dumpleton|O'Reilly Media|OpenShift for Developers: A Guide for Impatient Beginners|devops,openshift,docker,paas
 1784394033|9781784394035|2015-12|Jonathan Baier|Packt Publishing - ebooks Account|Getting Started with Kubernetes|devops,kubernetes,paas
 1784395641|9781784395643|2015-08|Omar Khedher|Packt Publishing - ebooks Account|Mastering OpenStack|devops,openstack,iaas
@@ -138,7 +138,7 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 8566250028|9788566250022|2013-12|Joao Bosco Monteiro|CASA DO CODIGO|Google Android: Crie Aplicacoes Para Celulares e Tablets|mobile,android
 8566250087|9788566250084|2012-12|Rafael Steil|CASA DO CODIGO|Ios: Programe Para Iphone e Ipad|mobile,ios
 8566250176|9788566250176|2013-12|Anderson Leite|CASA DO CODIGO|Desenvolvimento de Jogos Para Android|mobile,games,android
-8566250230|9788566250237|2014-12|Sergio Lopes|CASA DO CODIGO|Web Mobile, A: Design Responsivo e Alem Para Uma Web Adaptada ao Mundo Mobile|mobile,design
+8566250230|9788566250237|2014-12|Sergio Lopes|CASA DO CODIGO|A Web Mobile: Design Responsivo e Alem Para Uma Web Adaptada ao Mundo Mobile|frontend,mobile,design
 0240813286|9780240813288|2010-07|Matthew David|Focal Press|HTML5: Designing Rich Internet Applications|html5,frontend
 0321812182|9780321812186|2012-12|David Herman|Addison-Wesley Professional|Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript|javascript,frontend
 0596517742|9780596517748|2008-05|Douglas Crockford|O'Reilly Media|JavaScript: The Good Parts|javascript,frontend
@@ -229,3 +229,43 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1849695105|9781849695107|2014-05|Keith Makan|Packt Publishing|Penetration Testing with the Bash shell|hacker,pentest,bash
 1849695660|9781849695664|2013-10|Abhinav Singh|Packt Publishing|Instant Kali Linux|hacker,pentest,kali
 1931769508|9781931769501|2005-11|Michael Flenov|A-List Publishing|Hacker Linux Uncovered|hacker,pentest
+B00WL1G2CQ|000B00WL1G2CQ|2014-04|Tarcio Zemel|CASA DO CODIGO|Conhecendo o Adobe Photoshop CS6|design,photoshop,ptbr
+8555190851|9788555190858|2015-12|Paulo Caroli|CASA DO CODIGO|Direto ao Ponto: Criando Produtos de Forma Enxuta|agile,startup,ptbr
+856625029X|9788566250299|2013-12|Daniel Romero|CASA DO CODIGO|Comecando Com o Linux: Comando, Servicos e Administracao|linux,ptbr
+8555190258|9788555190254|2015-12|Henrique Lobo Weissmann|CASA DO CODIGO|Falando de Grails: Altissima Produtividade no Desenvolvimento Web|grails,ptbr
+8555190347|9788555190346|2015-12|Adriano Almeida|CASA DO CODIGO|Seo Pratico: Seu Site na Primeira Pagina das Buscas|html5,seo,ptbr
+8555190371|9788555190377|2015-12|Mauricio Aniche|CASA DO CODIGO|Orientacao a Objetos e Solid Para Ninjas: Projetando Classes Flexiveis|java,programming,ptbr
+8555190436|9788555190438|2015-12|Fernando Boaglio|CASA DO CODIGO|Mongodb: Construa Novas Aplicacoes Com Novas Tecnologias|database,mongodb,ptbr
+8555190460|9788555190469|2015-12|Flavio Almeida|CASA DO CODIGO|Mean: Full Stack Javascript Para Aplicacoes Web Com Mongodb, Express, Angular e Node|database,mongodb,ptbr
+8555190495|9788555190490|2015-12|Rodrigo Turini|CASA DO CODIGO|Explorando Apis e Bibliotecas Java: Jdbc, Io, Threads, Javafx e Mais|java,rest,ptbr
+8555190525|9788555190520|2014-12|Guilherme Silveira|CASA DO CODIGO|Swift: Programe Para Iphone e Ipad|mobile,swift,ios,ptbr
+855519055X|9788555190551|2014-12|Eduardo Goncalves|CASA DO CODIGO|Sql: Uma Abordagem Para Banco de Dados Oracle|database,sql,oracle,ptbr
+8555190584|9788555190582|2014-12|Rodrigo Turini|CASA DO CODIGO|Desbravando Java e Orientacao a Objetos: Um Guia Para o Iniciante da Linguagem|java,ptbr
+8555190649|9788555190643|2014-12|ederson Cassio|CASA DO CODIGO|Jogos em Html 5: Explore o Mobile e Fisica|game,html5,mobile,ptbr
+8555190762|9788555190766|2015-12|Tarcio Zemel|CASA DO CODIGO|Css Eficiente: Tecnicas e Ferramentas que Fazem a Diferenca nos Seus Estilos|frontend,css3,ptbr
+8555191505|9788555191503|2016-12|Caio Ribeiro Pereira|CASA DO CODIGO|Construindo Apis Rest Com Node.js|javascript,nodejs,rest,ptbr
+856625001X|9788566250015|2012-12|Gilliard Cordeiro|CASA DO CODIGO|Aplicacoes Java Para Web Com Jsf e Jpa|java,ptbr
+8566250060|9788566250060|2012-12|Joaquim Torres|CASA DO CODIGO|Guia da Startup: Como Startups e Empresas Estabelecidas Podem Criar Produtos Web Rentaveis|startup,ptbr
+8566250168|9788566250169|2013-12|Paulo Eduardo Azevedo Silveira|CASA DO CODIGO|Desenvolvimento de Jogos Para Ios: Explore Sua Imaginacao Com Framework Cocos2d|mobile,game,ios,ptbr
+8566250192|9788566250190|2013-12|Hebert Coelho|CASA DO CODIGO|Jsf Eficaz: As Melhores Praticas Para o Desenvolvedor Web Java|java,ptbr
+8566250214|9788566250213|2013-12|Gabriel Schade Cardoso|CASA DO CODIGO|Microsoft Kinect: Criando Aplicacoes Interativas Com o Microsoft Kinect|iot,ptbr
+8566250222|9788566250220|2012-12|Paulo Silveira|CASA DO CODIGO|Logica de Programacao: Crie Seus Primeiros Programas Usando Javascript e Html|frontend,javascript,html5,ptbr
+8566250249|9788566250244|2013-12|Lucas Souza|CASA DO CODIGO|Ruby: Aprenda a Programar Na Linguagem Mais Divertida|ruby,ptbr
+8566250257|9788566250251|2013-12|Mauricio Aniche|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real com .net|test,dotnet,ptbr
+8566250265|9788566250268|2013-12|Lucas Cavalcanti|CASA DO CODIGO|Vraptor: Desenvolvimento Agil Para Web Com Java|java,vraptor,ptbr
+8566250273|9788566250275|2012-12|Plinio Balduino|CASA DO CODIGO|Dominando Javascript com Jquery|javascript,ptbr
+8566250281|9788566250282|2013-12|Fabricio Sanchez|CASA DO CODIGO|Desenvolvimento Web Com Asp.net Mvc|aspnet,ptbr
+8566250303|9788566250305|2013-12|Evaldo Junior Bento|CASA DO CODIGO|Desenvolvimento Web Com Php e Mysql|php,mysql,ptbr
+8566250311|9788566250312|2013-12|Hebert Coelho|CASA DO CODIGO|Jpa Eficaz: As Melhores Praticas de Persistncia de Dados em Java|database,java,ptbr
+8566250346|9788566250343|2013-12|Hugo Barauna|CASA DO CODIGO|Cucumber e Rspec: Construa Aplicacoes Ruby Com Testes e Especificacoes Utilizando Tdd e Bdd|ruby,test,ptbr
+8566250370|9788566250374|2013-12|Alexandre Saudate|CASA DO CODIGO|Rest: Construa Api s Inteligentes de Maneira Simples|rest,ptbr
+8566250389|9788566250381|2014-12|ederson Cassio|CASA DO CODIGO|Desenvolva Jogos Com Html5 Canvas e Javascript|game,html5,javascript,ptbr
+8566250397|9788566250398|2014-12|Rodrigo Lazoti|CASA DO CODIGO|Armazenando Dados Com Redis|database,redis,ptbr
+8566250400|9788566250404|2013-12|Danilo Sato|CASA DO CODIGO|Devops na Pratica: Entrega de Software Confiavel e Automatizada|devops,ptbr
+8566250419|9788566250411|2014-12|Gabriel Schade Cardoso|CASA DO CODIGO|Criando Aplicacoes Para o Seu Windows Phone|mobile,windowsphone,ptbr
+8566250427|9788566250428|2014-12|Fernando Boaglio|CASA DO CODIGO|Play Framework: Java Para Web Sem Servlets e Com Diversao|playframework,java,ptbr
+8566250443|9788566250442|2014-12|Chad Fowler|CASA DO CODIGO|Programador Apaixonado, O: Construindo Uma Carreira Notavel em Desenvolvimento de Software|programming,agile,ptbr
+8566250451|9788566250459|2014-12|Caio Ribeiro Pereira|CASA DO CODIGO|Meteor: Criando Aplicacoes Web Realtime com Javascript|javascript,meteor,ptbr
+8566250486|9788566250480|2014-12|Fabricio Teixeira|CASA DO CODIGO|Introducao e Boas Praticas em Ux Design|design,frontend,ptbr
+8566250532|9788566250534|2014-12|Alexandre Aquiles|CASA DO CODIGO|Controlando Versoes com Git e Github|git,programming,ptbr
+8555190614|9788555190612|2015-12|Andre Cardoso|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real Com Php|test,php,ptbr
