@@ -61,7 +61,6 @@ function showBooksByTags () {
                     </div>
                     <div class="content">
                         <div class="header">@book.title</div>
-						<div>@book.slug</div>
                         <div class="meta">
                             <p>@book.authors</p>
                         </div>
@@ -88,7 +87,7 @@ function showBooksByTags () {
 
 	<script>
 		$('.dropdown').dropdown({
-			maxSelections: 3,
+			maxSelections: 9,
 			onChange: showBooksByTags
 		});
 	</script>
