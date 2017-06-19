@@ -128,9 +128,9 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1933988274|9781933988276|2009-07|Roy Osherove|Manning Publications|The Art of Unit Testing: with Examples in .NET|programming,test
 8566250044|9788566250046|2012-12|Mauricio Aniche|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real com Java|programming,test
 1491961430|9781491961438|2016-09|Grant Shipley, Graham Dumpleton|O'Reilly Media|OpenShift for Developers: A Guide for Impatient Beginners|devops,openshift,docker,paas
-1784394033|9781784394035|2015-12|Jonathan Baier|Packt Publishing - ebooks Account|Getting Started with Kubernetes|devops,kubernetes,paas
-1784395641|9781784395643|2015-08|Omar Khedher|Packt Publishing - ebooks Account|Mastering OpenStack|devops,openstack,iaas
-1785882872|9781785882876|2016-02|Joakim Verona|Packt Publishing - ebooks Account|Practical DevOps|devops
+1784394033|9781784394035|2015-12|Jonathan Baier|Packt Publishing|Getting Started with Kubernetes|devops,kubernetes,paas
+1784395641|9781784395643|2015-08|Omar Khedher|Packt Publishing|Mastering OpenStack|devops,openstack,iaas
+1785882872|9781785882876|2016-02|Joakim Verona|Packt Publishing|Practical DevOps|devops
 1849519226|9781849519229|2013-08|Matthias Marschall|Packt Publishing|Chef Infrastructure Automation Cookbook|devops,chef
 1430226595|9781430226598|2010-03|Sayed Hashimi, Satya Komatineni, Dave MacLean|Apress|Pro Android 2|mobile,android
 1430250623|9781430250623|2013-12|James Bucanek|Apress|Learn iOS 7 App Development|mobile,ios
@@ -450,9 +450,14 @@ B00WL1G2CQ|000B00WL1G2CQ|2014-04|Tarcio Zemel|CASA DO CODIGO|Conhecendo o Adobe 
 AAAAAAAAAA|978AAAAAAAAAA|2016-04|Olivier Manickum|Packt Publishing|What you need to know about Angular 2|javascript,angularjs2
 RRRRRRRRRR|978RRRRRRRRRR|2016-04|Dipanjan Sarkar, Raghav Bali|Packt Publishing|What you need to know about R|rlang
 1782160981|9781782160984|2013-09|Giorgio Natili|Packt Publishing|PhoneGap 3, Beginner's Guide, 2nd Edition|mobile,phonegap
-1783283157|9781783283156|2014-02|Felix Lopez, Victor Romero|Packt Publishing - ebooks Account|Mastering Python Regular Expressions|python,regex
-1785884220|9781785884221|2015-10|Antonio Pachon Ruiz|Packt Publishing - ebooks Account|Mastering Android Application Development|mobile,android
+1783283157|9781783283156|2014-02|Felix Lopez, Victor Romero|Packt Publishing|Mastering Python Regular Expressions|python,regex
+1785884220|9781785884221|2015-10|Antonio Pachon Ruiz|Packt Publishing|Mastering Android Application Development|mobile,android
 1785885995|9781785885990|2015-12|Arun Tigeraniya|Packt Publishing|Python Unlocked|python
 152391744X|9781523917440|2016-02|Viktor Farcic|CreateSpace Independent Publishing Platform|The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices|devops
 1118026470|9781118026472|2011-09|Dafydd Stuttard|Wiley|The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition|hacker,pentest
 149194594X|9781491945940|2014-11|Julia Elman, Mark Lavin|O'Reilly Media|Lightweight Django: Using REST, WebSockets, and Backbone|python,django,backbone,websocket
+1782168494|9781782168492|2016-06|Wolf Halton, Bo Weaver|Packt Publishing|Kali Linux 2: Windows Penetration Testing|pentest,security
+1783285230|9781783285235|2016-05|Preston Miller, Chapin Bryce|Packt Publishing|Learning Python for Forensics|pentest,security,python
+1783289597|9781783289592|2013-10|Willie L. Pritchett, David De Smet|Packt Publishing|Kali Linux Cookbook|pentest,security
+1784398632|9781784398637|2016-07|John Hearty|Packt Publishing|Advanced Machine Learning with Python|python,machine learning
+1785288938|9781785288937|2016-05|Erik Westra|Packt Publishing|Python Geospatial Development - Third Edition|python
