@@ -473,3 +473,66 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1544001665|9781544001661|2017-02|Joshua Cody|CreateSpace|Tor: Exactly How to Remain Invisible on the Anonymous Deep Web|security,pentest,tor
 1118608577|9781118608579|2014-02|Christopher Hadnagy|Wiley|Unmasking the Social Engineer: The Human Element of Security|security,pentest
 1534873066|9781534873063|2016-10|Alan Klement|Jobs To Be Done|When Coffee and Kale Compete: Become Great at Making Products People Will Buy|agile
+1617293822|9781617293825|2017-05|Peter Sbarski|Manning Publications|Serverless Architectures on AWS: With examples using AWS Lambda|aws,serverless
+1118662091|9781118662090|2014-03|Wade Alcorn, Christian Frichot, Michele Orru|Wiley|The Browser Hacker's Handbook|security,hacker
+0071817018|9780071817011|2013-07|Neil Bergman, Mike Stanfield, Jason Rouse, Joel Scambray, Sarath Geethakumar, Swapnil Deshmukh, Scott Matsumoto, John Steven, Mike Price|McGraw-Hill Education|Hacking Exposed Mobile: Security Secrets & Solutions|hacker,network,mobile
+1593271441|9781593271442|2008-02|Jon Erickson|No Starch Press|Hacking: The Art of Exploitation, 2nd Edition|hacker,pentest
+1491925612|9781491925614|2017-06|Nikhil Buduma|O'Reilly Media|Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms|bigdata,machinelearning,ia
+1439896461|9781439896464|2013-04|Anmol Misra, Abhishek Dubey|Auerbach Publications|Android Security: Attacks and Defenses|security,android
+1484222822|9781484222829|2016-11|Robert Svensson|Apress|From Hacking to Report Writing: An Introduction to Security and Penetration Testing|hacker,pentest,security
+1466578955|9781466578951|2015-05|ISC Corporate|Auerbach Publications|Official Guide to the CISSP-ISSMP CBK, Second Edition|security
+0321591801|9780321591807|2009-07|Ryan Trost|Addison-Wesley Professional|Practical Intrusion Analysis: Prevention and Detection for the Twenty-First Century|security,pentest
+111860864X|9781118608647|2014-03|Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva Fora, Stephen A. Ridley, Georg Wicherski|Wiley|Android Hacker's Handbook|android,hacker
+1484228650|9781484228654|2017-06|Manohar Swamynathan|Apress|Mastering Machine Learning with Python in Six Steps: A Practical Implementation Guide to Predictive Data Analytics Using Python|python,datascience,machinelearning
+1783985984|9781783985982|2014-08|Cameron Buchanan|Packt Publishing|Kali Linux CTF Blueprints|pentest,hacker,security
+1118027809|9781118027806|2012-04|Jennifer L. Bayuk, Jason Healey, Paul Rohmeyer, Marcus Sachs, Jeffrey Schmidt, Joseph Weiss|Wiley|Cyber Security Policy Guidebook|security,hackery
+1430263822|9781430263821|2014-08|Umesh Hodeghatta Rao, Umesha Nayak|Apress|The InfoSec Handbook: An Introduction to Information Security|security,hacker
+1783983264|9781783983261|2016-02|Ashish Kumar|Packt Publishing|Learning Predictive Analytics with Python|python,machinelearning
+1119252245|9781119252245|2016-05|Oriyano|Sybex|CEH v9: Certified Ethical Hacker Version 9 Study Guide|security,ceh,pentest
+0596518161|9780596518165|2009-02|Chris Fry, Martin Nystrom|O'Reilly Media|Security Monitoring: Proven Methods for Incident Detection on Enterprise Networks|security,network
+1593272901|9781593272906|2012-02|Michael Sikorski, Andrew Honig|No Starch Press|Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software|security,malware
+0071494618|9780071494618|2008-01|Rich Cannings, Himanshu Dwivedi, Zane Lackey|McGraw-Hill Education|Hacking Exposed Web 2.0: Web 2.0 Security Secrets and Solutions|hacker,security
+151719301X|9781517193010|2015-09|James Eldredge|CreateSpace Independent Publishing Platform|Protect Your Privacy: 17 Must-Know Ways to Keep Your Information Secure Online|hacker,security,network
+1118000153|9781118000151|2011-05|Roderick W. Smith|Sybex|LPIC-2 Linux Professional Institute Certification Study Guide: Exams 201 and 202|linux,lpic
+1484227654|9781484227657|2017-09|Nikhil Ketkar|Apress|Deep Learning with Python: A Hands-on Introduction|python,datascience,machinelearning
+007149426X|9780071494267|2007-12|Joel Scambray|McGraw-Hill Education|Hacking Exposed Windows: Microsoft Windows Security Secrets and Solutions, Third Edition|hacker,windows,pentest
+1617290181|9781617290183|2012-04|Peter Harrington|Manning Publications|Machine Learning in Action|machinelearning
+1484225341|9781484225349|2017-03|Chris Dannen|Apress|Introducing Ethereum and Solidity: Foundations of Cryptocurrency and Blockchain Programming for Beginners|blockchain
+1118888146|9781118888148|2014-07|Gregory J. Touhill, C. Joseph Touhill|Wiley-AIChE|Cybersecurity for Executives: A Practical Guide|security,network
+0071613749|9780071613743|2009-01|Stuart McClure, Joel Scambray, George Kurtz|McGraw-Hill Osborne Media|Hacking Exposed: Network Security Secrets and Solutions, Sixth Edition|hacker,security
+1785889745|9781785889745|2016-03|Akhil Wali|Packt Publishing|Mastering Clojure|clojure
+0596528124|9780596528126|2006-08|Jeffrey E. F. Friedl|O'Reilly Media|Mastering Regular Expressions|regex
+1785287818|9781785287817|2016-05|Soufiane Tahiri|Packt Publishing|Mastering Mobile Forensics|mobile,forense,security
+1782163220|9781782163220|2013-11|Ahmed Soliman|Packt Publishing|Getting Started with Memcached|memcached,devops
+1849694125|9781849694124|2013-03|Vyacheslav Fadyushin|Packt Publishing|Instant Penetration Testing: Setting Up a Test Lab How-to|pentest,hacker,security
+1593275900|9781593275907|2014-12|Justin Seitz|No Starch Press|Black Hat Python: Python Programming for Hackers and Pentesters|python,hacker
+1784394815|9781784394813|2015-04|Bayo Erinle|Packt Publishing|Performance Testing with Jmeter - Second Edition|jmeter,devops,java
+1119028752|9781119028758|2015-09|Joxean Koret, Elias Bachaalany|Wiley|The Antivirus Hacker's Handbook|hacker,hacker,security
+1484228863|9781484228869|2017-06|Thomas Hunter II|Apress|Advanced Microservices: A Hands-on Approach to Microservice Infrastructure and Tooling|microservices
+1512300772|9781512300772|2015-05|Isaac Sharpe|CreateSpace Independent Publishing Platform|Hacking: Basic Security, Penetration Testing and How to Hack|pentest,hacker,security
+3319160265|9783319160269|2015-06|Susan Lincke|Springer|Security Planning: An Applied Approach|hacker,security
+1785887106|9781785887109|2016-05|Richard Boddington|Packt Publishing|Practical Digital Forensics|hacker,security,forense
+1786464209|9781786464200|2016-05|Heather Mahalik, Rohit Tamma, Satish Bommisetty|Packt Publishing|Practical Mobile Forensics - Second Edition|mobile,security,forense
+1785888447|9781785888441|2016-05|Patrick Li|Packt Publishing|Jira 7 Administration Cookbook - Second Edition|jira
+0471917109|9780471917106|2007-01|Larry Stevenson, Nancy Altholz|For Dummies|Rootkits for Dummies|hacker,security,rootkit
+0071843655|9780071843652|2015-06|Artur Ejsmont|McGraw-Hill Education|Web Scalability for Startup Engineers|startup,development
+0596529317|9780596529314|2007-07|Christopher Wells|O'Reilly Media|Securing Ajax Applications: Ensuring the Safety of the Dynamic Web|hacker,security
+1783281553|9781783281558|2015-04|Gurmukh Singh|Packt Publishing|Monitoring Hadoop|devops,hadoop
+1466559578|9781466559578|2013-07|?|CRC Press|Distributed Networks: Intelligence, Security, and Applications|security,network
+143983721X|9781439837214|2011-08|?|CRC Press|Visual Cryptography and Secret Image Sharing|security,cryptography
+1118825098|9781118825099|2014-07|Michael Hale Ligh, Andrew Case, Jamie Levy, AAron Walters|Wiley|The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory|malware,security,forense
+0071823077|9780071823074|2016-06|Christopher C. Elisan, Michael A. Davis, Sean M. Bodmer, Aaron LeMasters|McGraw-Hill Education|Hacking Exposed Malware & Rootkits: Security Secrets and Solutions, Second Edition|malware,security,rootkit
+1784395749|9781784395742|2015-10|B. Diane Blackwood|Packt Publishing|Qlikview for Finance|finance,qlikview
+0071740643|9780071740647|2010-11|Joel Scambray, Vincent Liu, Caleb Sima|McGraw-Hill Education|Hacking Exposed Web Applications, Third Edition|hacker,security
+0071626778|9780071626774|2009-10|Aaron Philipp, David Cowen, Chris Davis|McGraw-Hill Education|Hacking Exposed Computer Forensics, Second Edition: Computer Forensics Secrets & Solutions|hacker,security,forense
+1484223241|9781484223246|2016-12|Sagar Ajay Rahalkar|Apress|Certified Ethical Hacker (CEH) Foundation Guide|ceh,pentest,security
+1118787315|9781118787311|2014-02|Bruce Dang, Alexandre Gazet, Elias Bachaalany|Wiley|Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation|development,security
+1593270712|9781593270711|2006-04|Michael W Lucas|No Starch Press|PGP & GPG: Email for the Practical Paranoid|cryptography,security
+1484226917|9781484226919|2017-05|Jan Newmarch|Apress|Network Programming with Go: Essential Skills for Using and Securing Networks|golang,network
+1785880772|9781785880773|2016-03|James D Miller|Packt Publishing|Learning IBM Watson Analytics|analytics,watson,machinelearning
+1782163484|9781782163480|2013-04|Wayne Ye|Packt Publishing|Instant Cucumber BDD How-to|cucumber,bdd,tests
+1786460807|9781786460806|2016-06|Paul Asjes|Packt Publishing|Building Slack Bots|slack,bot
+1119137829|9781119137825|2016-06|Troy McMillan|Sybex|CompTIA Server+ Study Guide: Exam SK0-004|security,comptia
+1617293741|9781617293740|2017-06|Matt Bailey|Manning Publications|CoreOS in Action: Running Applications on Container Linux|devops,coreos
+0071666613|9780071666619|2010-07|Johnny Cache, Joshua Wright, Vincent Liu|Mcgraw-Hill Osborne Media|Hacking Exposed Wireless: Wireless Security Secrets & Colutions|wireless,hacker,security
+0072262575|9780072262575|2008-08|ISECOM|McGraw-Hill Education|Hacking Exposed Linux, 3rd Edition|hacker,security

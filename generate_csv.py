@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 from datetime import datetime
+from slugify import slugify
 
 import os
 import sys
@@ -41,7 +42,12 @@ def parse(content):
     soup = BeautifulSoup(content, 'html.parser')
     div = soup.select_one('div.bookinfo')
     data = [p.get_text().split(':') for p in div.select('p')]
-    data.append(['Title', div.select_one('h2').get_text()])
+    try:
+        title = div.select_one('h2').get_text()
+    except:
+        title = div.select_one('h1').get_text()
+        
+    data.append(['Title', title])
     return data
 
 def to_csv(books, out):
@@ -51,15 +57,18 @@ def to_csv(books, out):
         #writer = csv.writer(csvfile, lineterminator='\n', delimiter='|') #csv.excel_tab.delimiter)
         #writer.writeheader()
         for d in books:
-            writer.writerow({
-                'ISBN-10': d.get('ISBN-10'),
-                'ISBN-13': d.get('ISBN-13'),
-                'Published': d.get('Published'),
-                'Authors': ', '.join(d.get('Authors')).encode("utf-8"),
-                'Publisher': d.get('Publisher'),
-                'Title': d.get('Title'),
-                'Tags': ''
-            })
+            try:
+                writer.writerow({
+                    'ISBN-10': d.get('ISBN-10'),
+                    'ISBN-13': d.get('ISBN-13'),
+                    'Published': d.get('Published'),
+                    'Authors': ', '.join(d.get('Authors')).encode("utf-8"),
+                    'Publisher': d.get('Publisher'),
+                    'Title': d.get('Title'),
+                    'Tags': ''
+                })
+            except Exception as e:
+                print '[ERROR] %s: %s - %s' % (d.get('ISBN-13'), d.get('Title'), e)
 
 def to_json(books):
     books_str = json.dumps(books)
@@ -72,15 +81,18 @@ if __name__ == '__main__':
     books = []
     print '###### Starting %s' % directory
     for item in os.listdir(directory):
-        print '- %s' % item
         if not item.endswith('.html'):
             continue
 
         with open(os.path.join(directory, item), 'rb') as f:
             content = f.read()
-            data = parse(content)
-            book = to_dict(data)
-            books.append(book)
+            try:
+                data = parse(content)
+                book = to_dict(data)
+                books.append(book)
+                print '%s: %s' % (item.replace('.html', ''), slugify(book.get('Title')))
+            except Exception as e:
+                print '[ERROR] %s. %s' % (item, e)
 
     to_csv(books, sys.argv[2])
 
