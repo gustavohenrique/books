@@ -68,7 +68,7 @@ def to_csv(books, out):
                     'Tags': ''
                 })
             except Exception as e:
-                print '[ERROR] %s: %s - %s' % (d.get('ISBN-13'), d.get('Title'), e)
+                print('[ERROR] %s: %s - %s' % (d.get('ISBN-13'), d.get('Title'), e))
 
 def to_json(books):
     books_str = json.dumps(books)
@@ -79,7 +79,7 @@ def to_json(books):
 if __name__ == '__main__':
     directory = sys.argv[1]
     books = []
-    print '###### Starting %s' % directory
+    print('###### Starting %s' % directory)
     for item in os.listdir(directory):
         if not item.endswith('.html'):
             continue
@@ -90,9 +90,9 @@ if __name__ == '__main__':
                 data = parse(content)
                 book = to_dict(data)
                 books.append(book)
-                print '%s: %s' % (item.replace('.html', ''), slugify(book.get('Title')))
+                print('%s: %s' % (item.replace('.html', ''), slugify(book.get('Title'))))
             except Exception as e:
-                print '[ERROR] %s. %s' % (item, e)
+                print('[ERROR] %s. %s' % (item, e))
 
     to_csv(books, sys.argv[2])
 

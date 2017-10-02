@@ -41,7 +41,7 @@ def to_html(**kwargs):
     }
     html = template.render(data, loader=loader).encode('utf-8')
     with open('index.html', 'w') as f:
-        f.write(html)
+        f.write(str(html))
 
 def sort_by_title(books):
     def get_title(book):
@@ -76,5 +76,5 @@ if __name__ == '__main__':
     books = sort_by_title(books)
     tags = get_unique_tags_from(books)
     to_html(books=books, tags=tags)
-    print 'Success'
+    print('Success')
 

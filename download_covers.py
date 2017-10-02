@@ -1,8 +1,9 @@
 from bs4 import BeautifulSoup
 
-import urllib
+import urllib.request
 import os
 import sys
+import shutil
 
 def parse(content):
     soup = BeautifulSoup(content, 'html.parser')
@@ -13,9 +14,9 @@ def parse(content):
 if __name__ == '__main__':
     directory = sys.argv[1]
     books = []
-    print '###### Starting %s' % directory
+    print('###### Starting %s' % directory)
     for item in os.listdir(directory):
-        print '- %s' % item
+        print('- %s' % item)
         if not item.endswith('.html'):
             continue
 
@@ -24,6 +25,9 @@ if __name__ == '__main__':
             data = parse(content)
             url = data.get('url')
             filename = '%s%s' % (item[0:len(item) - 4], url[-3:len(url)])
-            print '%s %s' % (filename, url)
-            urllib.urlretrieve(url, os.path.join(sys.argv[2], filename))
+            print('%s %s' % (filename, url))
+            dest = os.path.join(sys.argv[2], filename)
+            with urllib.request.urlopen(url) as response, open(dest, 'wb') as out_file:
+                shutil.copyfileobj(response, out_file)
+            # urllib.request.urlretrieve(url, os.path.join(sys.argv[2], filename))
 
