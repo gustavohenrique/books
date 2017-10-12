@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 from datetime import datetime
-from quik import FileLoader
+from jinja2 import Template
 from slugify import slugify
 
 import os
@@ -31,17 +31,19 @@ def to_html(**kwargs):
     tags = kwargs.get('tags')
     now = datetime.now()
     today = datetime.strftime(now, '%Y-%m-%d')
-    loader = FileLoader('html')
-    template = loader.load_template('_template.html')
     data = {
         'books': books,
         'total': len(books),
         'last_update': today,
         'tags': tags
     }
-    html = template.render(data, loader=loader).encode('utf-8')
+
+    with open('html/_template.html', 'r') as t:
+	    source = t.read()
+    template = Template(source)
+    html = template.render(data)
     with open('index.html', 'w') as f:
-        f.write(str(html))
+        f.write(html)
 
 def sort_by_title(books):
     def get_title(book):

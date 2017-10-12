@@ -9,7 +9,7 @@
 <meta http-equiv="last-modified" content="@last_update">
 <link rel="stylesheet" type="text/css" class="ui" href="semantic.min.css" />
 
-<title>Book Catalogue from Gustavo Henrique</title>
+<title>Book Catalogue by Gustavo Henrique</title>
 
 <script src="jquery-3.1.1.min.js"></script>
 <script src="semantic.min.js"></script>
@@ -41,47 +41,47 @@ function showBooksByTags () {
 				<i class="filter icon"></i>
 				<select name="filter" id="filter" class="ui selection search dropdown" multiple="">
 					<option value="">Filter</option>
-					#for @tag in @tags:
-					    <option value="@tag">@tag</option>
-					#end
+                    {% for tag in tags %}
+                        <option value="{{ tag }}">{{ tag }}</option>
+                    {% endfor %}
                 </select>
             </div>
             <div class="menu item">
                 <i class="book icon"></i>
-                <span id="displaying">@total</span> / <span>@total</span>
+                <span id="displaying">{{ total }}</span> / <span>{{ total }}</span>
             </div>
         </div>
     </div>
     <div class="ui segment" style="padding-top:80px;">
         <div class="ui centered align cards full">
-            #for @book in @books:
-                <div class="card @book.tags_as_css_class">
+            {% for book in books %}
+                <div class="card {{ book.tags_as_css_class }}">
                     <div class="image">
-                        <img src="@book.image" alt="@book.slug" title="@book.title">
+                        <img src="{{ book.image }}" alt="{{ book.slug }}" title="{{ book.title }}">
                     </div>
                     <div class="content">
-                        <div class="header">@book.title</div>
+                        <div class="header">{{ book.title }}</div>
                         <div class="meta">
-                            <p>@book.authors</p>
+                            <p>{{ book.authors }}</p>
                         </div>
                         <div class="description">
                             <p>
-                                <span>ISBN-10: @book.isbn10</span><br>
-                                <span>ISBN-13: @book.isbn13</span>
+                                <span>ISBN-10: {{ book.isbn10 }}</span><br>
+                                <span>ISBN-13: {{ book.isbn13 }}</span>
                             </p>
                             <p>
-                                #for @tag in @book.tags:
-                                    <a class="ui blue label @tag">@tag</a>
-                                #end
+                                {% for tag in book.tags %}
+                                    <a class="ui blue label {{ tag }}">{{ tag }}</a>
+                                {% endfor %}
                             </p>
                         </div>
                     </div>
                     <div class="extra content">
-                        <span  class="right floated">@book.publisher</span>
-                        <span>@book.published</span>
+                        <span  class="right floated">{{ book.publisher }}</span>
+                        <span>{{ book.published }}</span>
                     </div>
                 </div>
-            #end
+            {% endfor %}
         </div>
     </div>
 
