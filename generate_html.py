@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+#!/usr/bin/env python
 from datetime import datetime
 from jinja2 import Template
 from slugify import slugify
