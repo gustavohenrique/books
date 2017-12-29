@@ -24,7 +24,7 @@
 1491941952|9781491941959|2016-02|Caleb Doxsey|O'Reilly Media|Introducing Go: Build Reliable, Scalable Programs|golang
 1491946008|9781491946008|2015-08|Luciano Ramalho|O'Reilly Media|Fluent Python: Clear, Concise, and Effective Programming|python
 1491949643|9781491949641|2015-12|Samantha Kleinberg|O'Reilly Media|Why: A Guide to Finding and Using Causes|misc
-1491956259|9781491956250|2016-08|Irakli Nadareishvili, Ronnie Mitra, Matt McLarty, Mike Amundsen|O'Reilly Media|Microservice Architecture: Aligning Principles, Practices, and Culture|devops,microservice
+1491956259|9781491956250|2016-08|Irakli Nadareishvili, Ronnie Mitra, Matt McLarty, Mike Amundsen|O'Reilly Media|Microservice Architecture: Aligning Principles, Practices, and Culture|devops,microservices
 1511797568|9781511797566|2015-04|Earnest Wish|CreateSpace Independent Publishing Platform|Python Hacking Essentials|python,hacker
 1593273886|9781593273880|2011-11|Michal Zalewski|No Starch Press|The Tangled Web: A Guide to Securing Modern Web Applications|programming
 1593275919|9781593275914|2015-10|Daniel Higginbotham|No Starch Press|Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer|clojure
@@ -38,7 +38,7 @@
 1680500821|9781680500820|2016-07|Dmitri Sotnikov|Pragmatic Bookshelf|Web Development with Clojure: Build Bulletproof Web Apps with Less Code|clojure
 178216040X|9781782160403|2013-01|Roberto Moutinho|Packt Publishing|Instant Varnish Cache How-to|devops,varnish,cache
 1782163182|9781782163183|2015-01|Aaron Johns|Packt Publishing|Mastering Wireless Penetration Testing for Highly-Secured Environments|security,network,hacker,pentest
-1782164367|9781782164364|2015-10|Richard Lawson|Packt Publishing|Web Scraping with Python (Community Experience Distilled)|python,scraping
+1782164367|9781782164364|2015-10|Richard Lawson|Packt Publishing|Web Scraping with Python (Community Experience Distilled)|python,scrap
 1782167102|9781782167105|2016-02|"Ryan ""elfmaster"" O'Neill"|Packt Publishing|Learning Linux Binary Analysis|security,hacker,linux
 1782173633|9781782173632|2015-06|Uchit Vyas|Packt Publishing|Mastering AWS Development|aws
 1782177345|9781782177340|2015-05|Marcus Young|Packt Publishing|Implementing Cloud Design Patterns for AWS|aws
@@ -123,7 +123,7 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1449304818|9781449304812|2011-07|Stephen Nelson-Smith|O'Reilly Media|Test-Driven Infrastructure with Chef|devops,chef
 1449305350|9781449305352|2011-07|John Ferguson Smart|O'Reilly Media|Jenkins: The Definitive Guide: Continuous Integration for the Masses|devops,jenkins
 1449334903|9781449334901|2013-08|Lucas Carlson|O'Reilly Media|Programming for PaaS: A Practical Guide to Coding for Platform-as-a-Service|programming,paas
-1491950358|9781491950357|2015-02|Sam Newman|O'Reilly Media|Building Microservices: Designing Fine-Grained Systems|programming,microservice
+1491950358|9781491950357|2015-02|Sam Newman|O'Reilly Media|Building Microservices: Designing Fine-Grained Systems|programming,microservices
 1849517401|9781849517409|2012-06|Alan Berg|Packt Publishing|Jenkins Continuous Integration Cookbook|devops,jenkins
 1933988274|9781933988276|2009-07|Roy Osherove|Manning Publications|The Art of Unit Testing: with Examples in .NET|programming,test
 8566250044|9788566250046|2012-12|Mauricio Aniche|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real com Java|programming,test
@@ -137,7 +137,7 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1493786563|9781493786565|2013-12|Robert Virkus, Mostafa Akbari, Anna Alfut, Davoc Bradley, Richard Bloor, Dean Churchill, Bob Heubel|Enough Software and Wireless Industry Partnership|Mobile Developer's Guide to the Galaxy||mobile
 8566250028|9788566250022|2013-12|Joao Bosco Monteiro|CASA DO CODIGO|Google Android: Crie Aplicacoes Para Celulares e Tablets|mobile,android
 8566250087|9788566250084|2012-12|Rafael Steil|CASA DO CODIGO|Ios: Programe Para Iphone e Ipad|mobile,ios
-8566250176|9788566250176|2013-12|Anderson Leite|CASA DO CODIGO|Desenvolvimento de Jogos Para Android|mobile,games,android
+8566250176|9788566250176|2013-12|Anderson Leite|CASA DO CODIGO|Desenvolvimento de Jogos Para Android|mobile,game,android
 8566250230|9788566250237|2014-12|Sergio Lopes|CASA DO CODIGO|A Web Mobile: Design Responsivo e Alem Para Uma Web Adaptada ao Mundo Mobile|frontend,mobile,design
 0240813286|9780240813288|2010-07|Matthew David|Focal Press|HTML5: Designing Rich Internet Applications|html5,frontend
 0321812182|9780321812186|2012-12|David Herman|Addison-Wesley Professional|Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript|javascript,frontend
@@ -194,7 +194,7 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 143021936X|9781430219361|2009-07|Adrian Holovaty, Jacob Kaplan-Moss|Apress|The Definitive Guide to Django: Web Development Done Right|python,django
 1430219386|9781430219385|2009-06|James Bennett|Apress|Practical Django Projects|python,django
 1597499579|9781597499576|2012-11|TJ O'Connor|Syngress|Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers|python,pentest,hacker
-1783289554|9781783289554|2014-01|Vineeth G. Nair|Packt Publishing|Getting Started with Beautiful Soup|python,soup,scrap
+1783289554|9781783289554|2014-01|Vineeth G. Nair|Packt Publishing|Getting Started with Beautiful Soup|python,soap,scrap
 1847193358|9781847193353|2008-04|Ayman Hourieh|Packt Publishing|Learning Website Development with Django: A beginner's tutorial to building web applications, quickly and cleanly, with the Django application framework|python,django
 1849513740|9781849513746|2011-05|Michel Anders|Packt Publishing|Python 3 Web Development Beginner's Guide|python3
 0131480057|9780131480056|2010-07|Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley|Prentice Hall|UNIX and Linux System Administration Handbook, 4th Edition|linux
@@ -290,7 +290,7 @@ B00WL1G2CQ|000B00WL1G2CQ|2014-04|Tarcio Zemel|CASA DO CODIGO|Conhecendo o Adobe 
 1782162704|9781782162704|2013-06|Robbert Ravensbergen, Sander Schoneville|Packt Publishing|Magento: Beginner's Guide  - Second Edition|php,magento
 178216300X|9781782163008|2013-10|James Kent Lewis|Packt Publishing|Linux Utilities Cookbook|linux
 1782164006|9781782164005|2013-07|Loiane Groner|Packt Publishing|Mastering Ext JS|javascript,extjs
-1782164421|9781782164425|2013-08|Quinton Anderson|Packt Publishing|Storm Real-Time Processing Cookbook|marchinelearning
+1782164421|9781782164425|2013-08|Quinton Anderson|Packt Publishing|Storm Real-Time Processing Cookbook|machinelearning
 1782164529|9781782164524|2014-02|David  Cochran, Ian Whitley|Packt Publishing|Bootstrap Site Blueprints|frontend,bootstrap
 178216460X|9781782164609|2013-12|Bernardo Iraci|Packt Publishing|Blender Cycles: Lighting and Rendering Cookbook|design,blender
 1782165169|9781782165163|2013-07|Shumin Guo|Packt Publishing|Hadoop Operations and Cluster Management Cookbook|bigdata,hadoop
@@ -311,7 +311,7 @@ B00WL1G2CQ|000B00WL1G2CQ|2014-04|Tarcio Zemel|CASA DO CODIGO|Conhecendo o Adobe 
 1782177949|9781782177944|2014-12|Mike Coutermarsh|Packt Publishing|Heroku Cookbook|paas
 1783000341|9781783000340|2014-10|Gopal Ranjan, Tanmay Vora|Packt Publishing|Implementing Lean Six Sigma in 30 Days|agile,lean
 1783000988|9781783000982|2014-10|Sudhi Sinha|Packt Publishing|Making Big Data Work for Your Business|bigdata
-1783001348|9781783001347|2014-12|Akila Narayanan|Impackt Publishing|Gamification for Employee Engagement|gamifaction
+1783001348|9781783001347|2014-12|Akila Narayanan|Impackt Publishing|Gamification for Employee Engagement|gamification
 1783280336|9781783280339|2013-09|Alex Vanston|Packt Publishing|AngularJS Directives|javascript,angularjs
 1783280417|9781783280414|2015-03|Vivek Ramachandran, Cameron Buchanan|Packt Publishing|Kali Linux: Wireless Penetration Testing Beginner's Guide|kali,pentest,hacker,wireless
 1783280999|9781783280995|2013-10|Hector Cuesta|Packt Publishing|Practical Data Analysis|datamining
@@ -459,7 +459,7 @@ RRRRRRRRRR|978RRRRRRRRRR|2016-04|Dipanjan Sarkar, Raghav Bali|Packt Publishing|W
 1782168494|9781782168492|2016-06|Wolf Halton, Bo Weaver|Packt Publishing|Kali Linux 2: Windows Penetration Testing|pentest,security
 1783285230|9781783285235|2016-05|Preston Miller, Chapin Bryce|Packt Publishing|Learning Python for Forensics|pentest,security,python
 1783289597|9781783289592|2013-10|Willie L. Pritchett, David De Smet|Packt Publishing|Kali Linux Cookbook|pentest,security
-1784398632|9781784398637|2016-07|John Hearty|Packt Publishing|Advanced Machine Learning with Python|python,machine learning
+1784398632|9781784398637|2016-07|John Hearty|Packt Publishing|Advanced Machine Learning with Python|python,machinelearning
 1785288938|9781785288937|2016-05|Erik Westra|Packt Publishing|Python Geospatial Development - Third Edition|python
 B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e seguranca de redes: principios e praticas|security,cryptography
 1491929200|9781491929209|2016-01|Richard Banfield|O'Reilly Media|Design Leadership: How Top Design Leaders Build and Grow Successful Organizations|startup,design
@@ -485,7 +485,7 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 111860864X|9781118608647|2014-03|Joshua J. Drake, Zach Lanier, Collin Mulliner, Pau Oliva Fora, Stephen A. Ridley, Georg Wicherski|Wiley|Android Hacker's Handbook|android,hacker
 1484228650|9781484228654|2017-06|Manohar Swamynathan|Apress|Mastering Machine Learning with Python in Six Steps: A Practical Implementation Guide to Predictive Data Analytics Using Python|python,datascience,machinelearning
 1783985984|9781783985982|2014-08|Cameron Buchanan|Packt Publishing|Kali Linux CTF Blueprints|pentest,hacker,security
-1118027809|9781118027806|2012-04|Jennifer L. Bayuk, Jason Healey, Paul Rohmeyer, Marcus Sachs, Jeffrey Schmidt, Joseph Weiss|Wiley|Cyber Security Policy Guidebook|security,hackery
+1118027809|9781118027806|2012-04|Jennifer L. Bayuk, Jason Healey, Paul Rohmeyer, Marcus Sachs, Jeffrey Schmidt, Joseph Weiss|Wiley|Cyber Security Policy Guidebook|security,hacker
 1430263822|9781430263821|2014-08|Umesh Hodeghatta Rao, Umesha Nayak|Apress|The InfoSec Handbook: An Introduction to Information Security|security,hacker
 1783983264|9781783983261|2016-02|Ashish Kumar|Packt Publishing|Learning Predictive Analytics with Python|python,machinelearning
 1119252245|9781119252245|2016-05|Oriyano|Sybex|CEH v9: Certified Ethical Hacker Version 9 Study Guide|security,ceh,pentest
@@ -530,7 +530,7 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1593270712|9781593270711|2006-04|Michael W Lucas|No Starch Press|PGP & GPG: Email for the Practical Paranoid|cryptography,security
 1484226917|9781484226919|2017-05|Jan Newmarch|Apress|Network Programming with Go: Essential Skills for Using and Securing Networks|golang,network
 1785880772|9781785880773|2016-03|James D Miller|Packt Publishing|Learning IBM Watson Analytics|analytics,watson,machinelearning
-1782163484|9781782163480|2013-04|Wayne Ye|Packt Publishing|Instant Cucumber BDD How-to|cucumber,bdd,tests
+1782163484|9781782163480|2013-04|Wayne Ye|Packt Publishing|Instant Cucumber BDD How-to|cucumber,bdd,test
 1786460807|9781786460806|2016-06|Paul Asjes|Packt Publishing|Building Slack Bots|slack,bot
 1119137829|9781119137825|2016-06|Troy McMillan|Sybex|CompTIA Server+ Study Guide: Exam SK0-004|security,comptia
 1617293741|9781617293740|2017-06|Matt Bailey|Manning Publications|CoreOS in Action: Running Applications on Container Linux|devops,coreos
@@ -550,3 +550,4 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1119150795|9781119150794|2016-10|Christine Bresnahan; Richard Blum|Sybex|LPIC-2: Linux Professional Institute Certification Study Guide: Exam 201 and Exam 202|linux,lpic,certification
 1118960874|9781118960875|2015-06|Dan Olsen|Wiley|The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback|lean,agile
 1617292826|9781617292828|2016-06|Luis Atencio|Manning Publications|Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques|javascript,functional
+0321712471|9780321712479|2011-01|Jurgen Appelo|Addison-Wesley Professional|Management 3.0: Leading Agile Developers, Developing Agile Leaders|agile,business,leadership
