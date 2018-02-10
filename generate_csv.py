@@ -46,7 +46,7 @@ def parse(content):
         title = div.select_one('h2').get_text()
     except:
         title = div.select_one('h1').get_text()
-        
+
     data.append(['Title', title])
     return data
 
@@ -62,7 +62,7 @@ def to_csv(books, out):
                     'ISBN-10': d.get('ISBN-10'),
                     'ISBN-13': d.get('ISBN-13'),
                     'Published': d.get('Published'),
-                    'Authors': ', '.join(d.get('Authors')).encode("utf-8"),
+                    'Authors': ', '.join(d.get('Authors')),
                     'Publisher': d.get('Publisher'),
                     'Title': d.get('Title'),
                     'Tags': ''

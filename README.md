@@ -18,7 +18,7 @@ pip install -r requirements
 6. Generate an HTML file contains all books.
 
 ```
-python generate_csv.py raw # It will lost all tags
+python generate_csv.py raw books.csv  # It will overwrite the file and lost all tags
 python download_covers.py raw images
 python generate_html.py books.csv
 ```
