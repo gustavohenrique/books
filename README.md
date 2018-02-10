@@ -21,4 +21,6 @@ pip install -r requirements
 python generate_csv.py raw books.csv  # It will overwrite the file and lost all tags
 python download_covers.py raw images
 python generate_html.py books.csv
+cat books.csv | awk -F "|" '{print $6}' > titles.txt
+python slugify.py titles.txt
 ```
