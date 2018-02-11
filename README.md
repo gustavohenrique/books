@@ -22,5 +22,5 @@ python generate_csv.py raw books.csv  # It will overwrite the file and lost all 
 python download_covers.py raw images
 python generate_html.py books.csv
 cat books.csv | awk -F "|" '{print $6}' > titles.txt
-python slugify.py titles.txt
+python slugfy_it.py titles.txt
 ```
