@@ -573,7 +573,7 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1491994313|9781491994313|2017-09|Nick Tune and Scott Millett|O'Reilly|Designing Autonomous Teams and Services|leadership,business
 1491932483|9781491932483|2015-05|Ilya Grigorik|O'Reilly|HTTP/2: A New Excerpt from High Performance Browser Networking|http2
 1491960271|9781491960271|2016-05|Christina Wodtke|O'Reilly|Introduction to OKRs|okr
-1491963319|9781491963319|2016-07|Mark Richards|O'Reilly|Microservices Antipatterns and Pitfalls|microservices.development
+1491963319|9781491963319|2016-07|Mark Richards|O'Reilly|Microservices Antipatterns and Pitfalls|microservices,development
 1491955505|9781491955505|2016-02|Amelia Bellamy-Royds and Kurt Cagle|O'Reilly|Modern SVG|frontend,svg,development
 1491933428|9781491933428|2015-10|Richard Warburton|O'Reilly|Object-Oriented vs. Functional Programming|development
 1491944066|9781491944066|2016-09|Pete Mastin|O'Reilly|Real User Measurements|development,metrics
@@ -581,3 +581,4 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1491967317|9781491967317|2016-08|Esther Schindler|O'Reilly|The Secrets Behind Great One-on-One Meetings|leadership,management
 1491928158|9781491928158|2015-05|Eric A. Meyer|O'Reilly|Transforms in CSS|css,frontend
 1491959244|9781491959244|2016-09|Russell Pavlicek|O'Reilly|Unikernels|kernel,linux
+8555192616|9788555192616|2017-04|Tiago Davi|Casa do Codigo|Elixir: Do zero a concorrencia|elixir
