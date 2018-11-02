@@ -4,9 +4,12 @@ import sys
 
 if __name__ == '__main__':
     arg = sys.argv[1]
-    with open(arg, 'r') as f:
-        lines = f.read().split('\n')
+    if arg.endswith('.txt'):
+        with open(arg, 'r') as f:
+            lines = f.read().split('\n')
 
-    for l in lines:
-        print(slugify(l))
-    # print(slugify(sys.argv[1]))
+        for l in lines:
+            print(slugify(l))
+    else:
+        print(slugify(arg))
+
