@@ -4,3 +4,4 @@ env
 media
 static
 .DS_Store
+.~lock*
