@@ -581,11 +581,11 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1491967317|9781491967317|2016-08|Esther Schindler|O'Reilly|The Secrets Behind Great One-on-One Meetings|leadership,management|
 1491928158|9781491928158|2015-05|Eric A. Meyer|O'Reilly|Transforms in CSS|css,frontend|
 1491959244|9781491959244|2016-09|Russell Pavlicek|O'Reilly|Unikernels|kernel,linux|
-8555192616|9788555192616|2017-04|Tiago Davi|Casa do Codigo|Elixir: Do zero a concorrencia|elixir|
+8555192616|9788555192616|2017-04|Tiago Davi|Casa do Codigo|Elixir: Do zero a concorrencia|elixir,ptbr|
 1491927283|9781491927281|2017-12|Jim Blandy, Jason Orendorff|O'Reilly|Programming Rust: Fast, Safe Systems Development|rust|
 1980901754|9781980901754|2018-05|Peter Kim|Independently published|The Hacker Playbook 3: Practical Guide To Penetration Testing|pentest,hacker,security|
 1892005212|9781892005212|2007-05|Thomas d'Ansembourg|Puddledancer Press|Being Genuine: Stop Being Nice, Start Being Real|selfhelp|
-8555190971|9788555190971|2015-03|Mauricio Roberto Cruz|CASA DO CODIGO|ABAP: O Guia de Sobrevivencia do Profissional Moderno|abap|
+8555190971|9788555190971|2015-03|Mauricio Roberto Cruz|Casa do Codigo|ABAP: O Guia de Sobrevivencia do Profissional Moderno|abap,ptbr|
 1484227956|9781484227954|2017-08|Pradeep Macharla|Apress|Android Continuous Integration: Build-Deploy-Test Automation for Android Mobile Apps|android,mobile|
 8576050560|9788576050568|2006-05|H. M. Deitel|Pearson|C++ como programar - 5a edicao|c++|
 1491992476|9781491992470|2017-12|Vandad Nahavandipoor|O'Reilly Media|iOS 11 Swift Programming Cookbook: Solutions and Examples for iOS Apps|ios,mobile,swift,apple|
@@ -594,3 +594,10 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1892005034|9781892005038|2003-09|Marshall B. Rosenberg|Puddledancer Press|Nonviolent Communication: A Language of Life - 2nd edition|selfhelp,communication|
 1484233328|9781484233320|2018-01|Mark Wickham|Apress|Practical Android: 14 Complete Projects on Advanced Techniques and Approaches|android,mobile|
 1491999225|9781491999226|2018-01|Matt Neuburg|O'Reilly Media|Programming iOS 11: Dive Deep into Views, View Controllers, and Frameworks|ios,mobile,swift,apple,testing|
+1786466201|9781786466204|2017-02|Mario Castro Contreras|Packt Publishing|Go Design Patterns|golang,designpatterns|
+8555190827|9788555190827|2015-10|Gleicon Moraes|Casa do Codigo|Caixa De Ferramentas Devops - Um Guia Para Construçao, Administraçao E Arquitetura De Sistemas Modernos|devops,ptbr|
+136123562|9780136123569|2014-01|Paul Deitel, Harvey M. Deitel|Pearson|C Como Programar|clang|
+8555191068|9788555191060|2015-08|Daniel Wildt,‎ Dionatan Moura,‎ Guilherme Lacerda|Casa do Codigo|eXtreme Programming: Práticas para o dia a dia no desenvolvimento ágil de software|agile,xp|
+8576082713|9788576082712|2008-02|Steve Krug|Alta Books|Não Me Faça Pensar – 2a edicao|design,ux|
+471606952|9780471606956|2000-09|Douglas Schmidt, Michael Stal, Hans Rohnert, Frank Buschmann|Wiley|Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects|designpatterns,java,oo|
+073845317X|9780738453170|2004-04|Mark Endrei, Jenny Ang|IBM|Patterns: Service-Oriented Architecture and Web Services|designpatterns,ibm|
