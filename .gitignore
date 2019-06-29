@@ -1,8 +1,10 @@
 *.pyc
 env
 .venv
+venv
 *.db
 media
 static
 .DS_Store
 .~lock*
+titles.txt
