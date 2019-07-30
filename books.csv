@@ -597,7 +597,7 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1786466201|9781786466204|2017-02|Mario Castro Contreras|Packt Publishing|Go Design Patterns|golang,designpatterns|
 8555190827|9788555190827|2015-10|Gleicon Moraes|Casa do Codigo|Caixa De Ferramentas Devops - Um Guia Para Construçao, Administraçao E Arquitetura De Sistemas Modernos|devops,ptbr|
 136123562|9780136123569|2014-01|Paul Deitel, Harvey M. Deitel|Pearson|C Como Programar|clang|
-8555191068|9788555191060|2015-08|Daniel Wildt,‎ Dionatan Moura,‎ Guilherme Lacerda|Casa do Codigo|eXtreme Programming: Práticas para o dia a dia no desenvolvimento ágil de software|agile,xp|
+8555191068|9788555191060|2015-08|Daniel Wildt,Dionatan Moura,Guilherme Lacerda|Casa do Codigo|eXtreme Programming: Práticas para o dia a dia no desenvolvimento ágil de software|agile,xp|
 8576082713|9788576082712|2008-02|Steve Krug|Alta Books|Não Me Faça Pensar – 2a edicao|design,ux|
 471606952|9780471606956|2000-09|Douglas Schmidt, Michael Stal, Hans Rohnert, Frank Buschmann|Wiley|Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects|designpatterns,java,oo|
 073845317X|9780738453170|2004-04|Mark Endrei, Jenny Ang|IBM|Patterns: Service-Oriented Architecture and Web Services|designpatterns,ibm|
@@ -610,3 +610,5 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 0764574817|9780764574818|2005-04|Eldad Eilam|Wiley|Reversing: Secrets of Reverse Engineering|os,reverse|
 1118063333|9781118063330|2012-12|Abraham Silberschatz,Peter B. Galvin,Greg Gagne|Wiley|Operating System Concepts|os,reverse|
 1449373321|9781449373320|2017-04|Martin Kleppmann|O'Reilly Media|Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems|architecture,development|
+1491930892|9781491930893|2015-05|Ian Robinson,Jim Webber,Emil Eifrem|O'Reilly Media|Graph Databases 2nd Edition|database,neo4j|
+1934356920|9781934356920|2012-05|Jim R. Wilson,Eric Redmond|The Pragmatic Programmers|Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement|database,neo4j,nosql,postgres,mysql|
