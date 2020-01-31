@@ -101,11 +101,8 @@
 1934356557|9781934356555|2010-07|Bill Karwin|Pragmatic Bookshelf|SQL Antipatterns: Avoiding the Pitfalls of Database Programming|database,sql|
 1934356905|9781934356906|2012-03|Mike Riley|Pragmatic Bookshelf|Programming Your Home: Automate with Arduino, Android, and Your Computer|arduino,iot|
 1935182870|9781935182870|2011-12|Kyle Banker|Manning Publications|MongoDB in Action|database,mongodb|
-8566250494|9788566250497|2014-12|Caio Filipini|CASA DO CODIGO|Programando em Go: Crie Aplicacoes Com a Linguagem do Google|golang,ptbr|
-8566250125|9788566250121|2013-12|Andre Faria Gomes|CASA DO CODIGO|Agile: Desenvolvimento de Software Com Entregas Frequentes e Foco no Valor de Negocio|agile,ptbr|
 B00CBM1WFC|000B00CBM1WFC|2013-04|Mandi Walls|Amazon Digital Services|Building a DevOps Culture|devops|
 B00VAAM7LE|000B00VAAM7LE|2014-04|Chad Fowler|Amazon Digital Services|O Programador Apaixonado: Construindo uma carreira notavel em desenvolvimento de software|programming,ptbr|
-B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agil para projetos de sucesso|agile,scrum,ptbr|
 73375977|9780073375977|2009-01|Roger Pressman|McGraw-Hill Education|Software Engineering: A Practitioner's Approach|programming|
 132350882|9780132350884|2008-08|Robert C. Martin|Prentice Hall|Clean Code: A Handbook of Agile Software Craftsmanship|agile,programming,test|
 134032802|9780134032801|2015-06|Martin L. Abbott, Michael T. Fisher|Addison-Wesley Professional|The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2nd Edition)|devops,programming|
@@ -126,7 +123,6 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1491950358|9781491950357|2015-02|Sam Newman|O'Reilly Media|Building Microservices: Designing Fine-Grained Systems|programming,microservices|
 1849517401|9781849517409|2012-06|Alan Berg|Packt Publishing|Jenkins Continuous Integration Cookbook|devops,jenkins|
 1933988274|9781933988276|2009-07|Roy Osherove|Manning Publications|The Art of Unit Testing: with Examples in .NET|programming,test|
-8566250044|9788566250046|2012-12|Mauricio Aniche|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real com Java|programming,test|
 1491961430|9781491961438|2016-09|Grant Shipley, Graham Dumpleton|O'Reilly Media|OpenShift for Developers: A Guide for Impatient Beginners|devops,openshift,docker,paas|
 1784394033|9781784394035|2015-12|Jonathan Baier|Packt Publishing|Getting Started with Kubernetes|devops,kubernetes,paas|
 1784395641|9781784395643|2015-08|Omar Khedher|Packt Publishing|Mastering OpenStack|devops,openstack,iaas|
@@ -135,10 +131,6 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1430226595|9781430226598|2010-03|Sayed Hashimi, Satya Komatineni, Dave MacLean|Apress|Pro Android 2|mobile,android|
 1430250623|9781430250623|2013-12|James Bucanek|Apress|Learn iOS 7 App Development|mobile,ios|
 1493786563|9781493786565|2013-12|Robert Virkus, Mostafa Akbari, Anna Alfut, Davoc Bradley, Richard Bloor, Dean Churchill, Bob Heubel|Enough Software and Wireless Industry Partnership|Mobile Developer's Guide to the Galaxy||mobile
-8566250028|9788566250022|2013-12|Joao Bosco Monteiro|CASA DO CODIGO|Google Android: Crie Aplicacoes Para Celulares e Tablets|mobile,android|
-8566250087|9788566250084|2012-12|Rafael Steil|CASA DO CODIGO|Ios: Programe Para Iphone e Ipad|mobile,ios|
-8566250176|9788566250176|2013-12|Anderson Leite|CASA DO CODIGO|Desenvolvimento de Jogos Para Android|mobile,game,android|
-8566250230|9788566250237|2014-12|Sergio Lopes|CASA DO CODIGO|A Web Mobile: Design Responsivo e Alem Para Uma Web Adaptada ao Mundo Mobile|frontend,mobile,design|
 240813286|9780240813288|2010-07|Matthew David|Focal Press|HTML5: Designing Rich Internet Applications|html5,frontend|
 321812182|9780321812186|2012-12|David Herman|Addison-Wesley Professional|Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript|javascript,frontend|
 596517742|9780596517748|2008-05|Douglas Crockford|O'Reilly Media|JavaScript: The Good Parts|javascript,frontend|
@@ -149,10 +141,6 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1847195148|9781847195142|2008-11|Shea Frederick, Colin Ramsay, Steve 'Cutter' Blades|Packt Publishing|Learning Ext JS|javascript,extjs,frontend|
 1849511209|9781849511209|2010-10|Shea Frederick, Colin Ramsay, Steve 'Cutter' Blades, Nigel White|Packt Publishing|Learning Ext JS 3.2|javascript,extjs,frontend|
 193398869X|9781933988696|2013-01|John Resig, Bear Bibeault|Manning Publications|Secrets of the JavaScript Ninja|javascript,frontend|
-8566250052|9788566250053|2013-12|Lucas Mazza|CASA DO CODIGO|Html5 e CSS3. Domine a Web do Futuro|html5,css3,frontend,ptbr|
-8566250079|9788566250077|2012-12|Tarcio Zemel|CASA DO CODIGO|Web Design Responsivo: Paginas Adaptaveis Para Todos os Dispositivos|frontend,design,html5,css3,ptbr|
-8566250141|9788566250145|2013-12|Caio Ribeiro Pereira|CASA DO CODIGO|Node.js: Aplicacoes Web Real-time com Node.js|javascript,nodejs,ptbr|
-8566250478|9788566250473|2014-12|Varios Autores|CASA DO CODIGO|Coletanea Front-end: Uma Antologia da Comunidade Front-end Brasileira|frontend,javascript,ptbr|
 8574163872|9788574163871|1995-12|Robin Williams|Callis|Design Para Quem Nao E Designer|design,ptbr|
 1849519943|9781849519946|2013-11|Gianluca Guarini, Aravind Shenoy|Packt Publishing|HTML5 and CSS3 Transition, Transformation, and Animation|frontend,html5,css3|
 8535250305|9788535250305|2011-12|Guilherme Moreira, Fabio Kung, Guilherme Silveira|Campus|Introducao a Arquitetura e Design de Software|java|
@@ -168,13 +156,6 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1847194540|9781847194541|2009-09|Brett Porter, Maria Odea Ching|Packt Publishing|Apache Maven 2 Effective Implementation|java,maven|
 1849511608|9781849511605|2011-03|Igor Vaynberg|Packt Publishing|Apache Wicket Cookbook|java,wicket|
 1849518289|9781849518284|2012-10|Kumar Gupta Munish|Packt Publishing|Akka Essentials|java,akka|
-8566250095|9788566250091|2012-12|Henrique Lobo Weissmann|CASA DO CODIGO|Vire o Jogo Com Spring Framework|java,spring,ptbr|
-8566250117|9788566250114|2012-12|Eduardo Guerra|CASA DO CODIGO|Design Patterns Com Java: Projeto Orientado a Objetos Guiado Por Padroes|java,ptbr|
-856625015X|9788566250152|2012-12|Alexandre Saudate|CASA DO CODIGO|Soa Aplicado: Integrando com Web Services e Alem|java,soa,ptbr|
-8566250184|9788566250183|2013-12|Gilliard Cordeiro|CASA DO CODIGO|Cdi: Integre as Dependncias e Contextos do Seu Codigo Java|java,ptbr|
-8566250206|9788566250206|2013-12|Bruno Oliveira|CASA DO CODIGO|Javafx: Interfaces com Qualidade Para AplicaCOes Desktop|java,ptbr|
-856625046X|9788566250466|2014-12|Paulo Silveira|CASA DO CODIGO|Java 8 Pratico: Lambdas, Streams e os Novos Recursos da Linguagem|java,ptbr|
-8566250508|9788566250503|2014-12|Eduardo Guerra|CASA DO CODIGO|Componentes Reutilizaveis em Java Com Reflexao e Anotacoes|java,ptbr|
 596005717|9780596005719|2003-11|Kathy Sierra, Bert Bates|O'Reilly Media|Head First EJB|java,ejb3|
 1590596455|9781590596456|2006-05|Mike Keith, Merrick Schincariol|Apress|Pro EJB 3: Java Persistence API|java,ejb3|
 1847195601|9781847195609|2008-05|Michael Sikora|Packt Publishing|EJB 3 Developer Guide: A Practical Guide for developers and architects to the Enterprise Java Beans Standard.|java,ejb3|
@@ -218,7 +199,6 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1782162828|9781782162827|2013-10|Terry Matula|Packt Publishing|Laravel Application Development Cookbook|php,laravel|
 1847197426|9781847197429|2010-01|Jamie Huskisson|Packt Publishing|Magento 1.3: PHP Developer's Guide|php,magento|
 1934356700|9781934356708|2011-07|Ben Rady, Rod Coffin|Pragmatic Bookshelf|Continuous Testing: with Ruby, Rails, and JavaScript|ruby,rails,test|
-8566250036|9788566250039|2012-12|Vinicius Baggio Fuentes|CASA DO CODIGO|Ruby on Rails: Coloque sua Aplicacao web nos Trilhos|ruby,rails,ptbr|
 321534468|9780321534460|2009-01|Lisa Crispin, Janet Gregory|Addison-Wesley Professional|Agile Testing: A Practical Guide for Testers and Agile Teams|agile,test|
 321967054|9780321967053|2014-10|Janet Gregory, Lisa Crispin|Addison-Wesley Professional|More Agile Testing: Learning Journeys for the Whole Team|agile,test|
 470170778|9780470170779|2007-10|Dafydd Stuttard, Marcus Pinto|Wiley|The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws|security,hacker,pentest|
@@ -229,6 +209,32 @@ B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agi
 1849695105|9781849695107|2014-05|Keith Makan|Packt Publishing|Penetration Testing with the Bash shell|hacker,pentest,bash|
 1849695660|9781849695664|2013-10|Abhinav Singh|Packt Publishing|Instant Kali Linux|hacker,pentest,kali|
 1931769508|9781931769501|2005-11|Michael Flenov|A-List Publishing|Hacker Linux Uncovered|hacker,pentest|
+8566250052|9788566250053|2013-12|Lucas Mazza|CASA DO CODIGO|Html5 e CSS3. Domine a Web do Futuro|html5,css3,frontend,ptbr|
+8555191068|9788555191060|2015-08|Daniel Wildt,Dionatan Moura,Guilherme Lacerda|CASA DO CODIGO|eXtreme Programming: Práticas para o dia a dia no desenvolvimento ágil de software|agile,xp|
+8555190827|9788555190827|2015-10|Gleicon Moraes|CASA DO CODIGO|Caixa De Ferramentas Devops - Um Guia Para Construçao, Administraçao E Arquitetura De Sistemas Modernos|devops,ptbr|
+8555190971|9788555190971|2015-03|Mauricio Roberto Cruz|CASA DO CODIGO|ABAP: O Guia de Sobrevivencia do Profissional Moderno|abap,ptbr|
+8555192616|9788555192616|2017-04|Tiago Davi|CASA DO CODIGO|Elixir: Do zero a concorrencia|elixir,ptbr|
+8555192760|9788555192760|2017-06|Raphael Donaire Albino|CASA DO CODIGO|Metricas Ageis: Obtenha melhores resultados em sua equipe|agile,startup,lean|
+8555192104|9788555192104|2016-08|Willian Molinari|CASA DO CODIGO|Desconstruindo a Web: As tecnologias por trás de uma requisição|web,network,ptbr|
+8566250044|9788566250046|2012-12|Mauricio Aniche| CODIGO|Test-driven Development: Teste e Design no Mundo Real com Java|programming,test|
+8566250494|9788566250497|2014-12|Caio Filipini|CASA DO CODIGO|Programando em Go: Crie Aplicacoes Com a Linguagem do Google|golang,ptbr|
+8566250125|9788566250121|2013-12|Andre Faria Gomes|CASA DO CODIGO|Agile: Desenvolvimento de Software Com Entregas Frequentes e Foco no Valor de Negocio|agile,ptbr|
+B00VAB1GSS|000B00VAB1GSS|2014-04|Rafael Sabbagh|CASA DO CODIGO|Scrum: Gestao agil para projetos de sucesso|agile,scrum,ptbr|
+8566250028|9788566250022|2013-12|Joao Bosco Monteiro|CASA DO CODIGO|Google Android: Crie Aplicacoes Para Celulares e Tablets|mobile,android|
+8566250087|9788566250084|2012-12|Rafael Steil|CASA DO CODIGO|Ios: Programe Para Iphone e Ipad|mobile,ios|
+8566250176|9788566250176|2013-12|Anderson Leite|CASA DO CODIGO|Desenvolvimento de Jogos Para Android|mobile,game,android|
+8566250230|9788566250237|2014-12|Sergio Lopes|CASA DO CODIGO|A Web Mobile: Design Responsivo e Alem Para Uma Web Adaptada ao Mundo Mobile|frontend,mobile,design|
+8566250079|9788566250077|2012-12|Tarcio Zemel|CASA DO CODIGO|Web Design Responsivo: Paginas Adaptaveis Para Todos os Dispositivos|frontend,design,html5,css3,ptbr|
+8566250141|9788566250145|2013-12|Caio Ribeiro Pereira|CASA DO CODIGO|Node.js: Aplicacoes Web Real-time com Node.js|javascript,nodejs,ptbr|
+8566250478|9788566250473|2014-12|Varios Autores|CASA DO CODIGO|Coletanea Front-end: Uma Antologia da Comunidade Front-end Brasileira|frontend,javascript,ptbr|
+8566250036|9788566250039|2012-12|Vinicius Baggio Fuentes|CASA DO CODIGO|Ruby on Rails: Coloque sua Aplicacao web nos Trilhos|ruby,rails,ptbr|
+8566250095|9788566250091|2012-12|Henrique Lobo Weissmann|CASA DO CODIGO|Vire o Jogo Com Spring Framework|java,spring,ptbr|
+8566250117|9788566250114|2012-12|Eduardo Guerra|CASA DO CODIGO|Design Patterns Com Java: Projeto Orientado a Objetos Guiado Por Padroes|java,ptbr|
+856625015X|9788566250152|2012-12|Alexandre Saudate|CASA DO CODIGO|Soa Aplicado: Integrando com Web Services e Alem|java,soa,ptbr|
+8566250184|9788566250183|2013-12|Gilliard Cordeiro|CASA DO CODIGO|Cdi: Integre as Dependncias e Contextos do Seu Codigo Java|java,ptbr|
+8566250206|9788566250206|2013-12|Bruno Oliveira|CASA DO CODIGO|Javafx: Interfaces com Qualidade Para AplicaCOes Desktop|java,ptbr|
+856625046X|9788566250466|2014-12|Paulo Silveira|CASA DO CODIGO|Java 8 Pratico: Lambdas, Streams e os Novos Recursos da Linguagem|java,ptbr|
+8566250508|9788566250503|2014-12|Eduardo Guerra|CASA DO CODIGO|Componentes Reutilizaveis em Java Com Reflexao e Anotacoes|java,ptbr|
 B00WL1G2CQ|000B00WL1G2CQ|2014-04|Tarcio Zemel|CASA DO CODIGO|Conhecendo o Adobe Photoshop CS6|design,photoshop,ptbr|
 8555190851|9788555190858|2015-12|Paulo Caroli|CASA DO CODIGO|Direto ao Ponto: Criando Produtos de Forma Enxuta|agile,startup,ptbr|
 856625029X|9788566250299|2013-12|Daniel Romero|CASA DO CODIGO|Comecando Com o Linux: Comando, Servicos e Administracao|linux,ptbr|
@@ -268,6 +274,8 @@ B00WL1G2CQ|000B00WL1G2CQ|2014-04|Tarcio Zemel|CASA DO CODIGO|Conhecendo o Adobe 
 8566250451|9788566250459|2014-12|Caio Ribeiro Pereira|CASA DO CODIGO|Meteor: Criando Aplicacoes Web Realtime com Javascript|javascript,meteor,ptbr|
 8566250486|9788566250480|2014-12|Fabricio Teixeira|CASA DO CODIGO|Introducao e Boas Praticas em Ux Design|design,frontend,ptbr|
 8566250532|9788566250534|2014-12|Alexandre Aquiles|CASA DO CODIGO|Controlando Versoes com Git e Github|git,programming,ptbr|
+0000000000|9780000001111|0000-00|Mauricio Aniche|CASA DO CODIGO|Introducao a programacao em C: Os primeiros passos de um desenvolvedor|clang,ptbr|
+8555192333|9788555192319|0000-00|Rosangela Marquesone|CASA DO CODIGO|Big Data: Tecnicas e tecnologias para extracao de valor dos dados|bigdata,ptbr|
 8555190614|9788555190612|2015-12|Andre Cardoso|CASA DO CODIGO|Test-driven Development: Teste e Design no Mundo Real Com Php|test,php,ptbr|
 321767535|9780321767530|2011-04|Susan Weinschenk|New Riders|100 Things Every Designer Needs to Know About People|design|
 975841963|9780975841969|2007-02|Jason Beaird|SitePoint|The Principles of Beautiful Web Design|design|
@@ -463,7 +471,6 @@ RRRRRRRRRR|978RRRRRRRRRR|2016-04|Dipanjan Sarkar, Raghav Bali|Packt Publishing|W
 1785288938|9781785288937|2016-05|Erik Westra|Packt Publishing|Python Geospatial Development - Third Edition|python|
 B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e seguranca de redes: principios e praticas|security,cryptography|
 1491929200|9781491929209|2016-01|Richard Banfield|O'Reilly Media|Design Leadership: How Top Design Leaders Build and Grow Successful Organizations|startup,design|
-8555192760|9788555192760|2017-06|Raphael Donaire Albino|Casa do Codigo|Metricas Ageis: Obtenha melhores resultados em sua equipe|agile,startup,lean|
 1119367689|9781119367680|2017-03|Wil Allsopp|Wiley|Advanced Penetration Testing: Hacking the World's Most Secure Networks|security,pentest|
 71836489|9780071836487|2014-06|Matt Walker|McGraw-Hill Education|CEH Certified Ethical Hacker All-in-One Exam Guide, Second Edition 2nd Edition|security,pentest|
 1593271441|9781593271442|2008-02|Jon Erickson|No Starch Press|Hacking: The Art of Exploitation, 2nd Edition|security,pentest|
@@ -581,11 +588,9 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1491967317|9781491967317|2016-08|Esther Schindler|O'Reilly|The Secrets Behind Great One-on-One Meetings|leadership,management|
 1491928158|9781491928158|2015-05|Eric A. Meyer|O'Reilly|Transforms in CSS|css,frontend|
 1491959244|9781491959244|2016-09|Russell Pavlicek|O'Reilly|Unikernels|kernel,linux|
-8555192616|9788555192616|2017-04|Tiago Davi|Casa do Codigo|Elixir: Do zero a concorrencia|elixir,ptbr|
 1491927283|9781491927281|2017-12|Jim Blandy, Jason Orendorff|O'Reilly|Programming Rust: Fast, Safe Systems Development|rust|
 1980901754|9781980901754|2018-05|Peter Kim|Independently published|The Hacker Playbook 3: Practical Guide To Penetration Testing|pentest,hacker,security|
 1892005212|9781892005212|2007-05|Thomas d'Ansembourg|Puddledancer Press|Being Genuine: Stop Being Nice, Start Being Real|selfhelp|
-8555190971|9788555190971|2015-03|Mauricio Roberto Cruz|Casa do Codigo|ABAP: O Guia de Sobrevivencia do Profissional Moderno|abap,ptbr|
 1484227956|9781484227954|2017-08|Pradeep Macharla|Apress|Android Continuous Integration: Build-Deploy-Test Automation for Android Mobile Apps|android,mobile|
 8576050560|9788576050568|2006-05|H. M. Deitel|Pearson|C++ como programar - 5a edicao|cpp|
 1491992476|9781491992470|2017-12|Vandad Nahavandipoor|O'Reilly Media|iOS 11 Swift Programming Cookbook: Solutions and Examples for iOS Apps|ios,mobile,swift,apple|
@@ -595,14 +600,11 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1484233328|9781484233320|2018-01|Mark Wickham|Apress|Practical Android: 14 Complete Projects on Advanced Techniques and Approaches|android,mobile|
 1491999225|9781491999226|2018-01|Matt Neuburg|O'Reilly Media|Programming iOS 11: Dive Deep into Views, View Controllers, and Frameworks|ios,mobile,swift,apple,testing|
 1786466201|9781786466204|2017-02|Mario Castro Contreras|Packt Publishing|Go Design Patterns|golang,designpatterns|
-8555190827|9788555190827|2015-10|Gleicon Moraes|Casa do Codigo|Caixa De Ferramentas Devops - Um Guia Para Construçao, Administraçao E Arquitetura De Sistemas Modernos|devops,ptbr|
 136123562|9780136123569|2014-01|Paul Deitel, Harvey M. Deitel|Pearson|C Como Programar|clang|
-8555191068|9788555191060|2015-08|Daniel Wildt,Dionatan Moura,Guilherme Lacerda|Casa do Codigo|eXtreme Programming: Práticas para o dia a dia no desenvolvimento ágil de software|agile,xp|
 8576082713|9788576082712|2008-02|Steve Krug|Alta Books|Não Me Faça Pensar – 2a edicao|design,ux|
 471606952|9780471606956|2000-09|Douglas Schmidt, Michael Stal, Hans Rohnert, Frank Buschmann|Wiley|Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects|designpatterns,java,oo|
 073845317X|9780738453170|2004-04|Mark Endrei, Jenny Ang|IBM|Patterns: Service-Oriented Architecture and Web Services|designpatterns,ibm|
 8582714548|9788582714546|2017-12|Marsha M. Linehan|Artmed|Treinamento de Habilidades em DBT – Paciente – 2a edicao|tbt,selfhelp,depressao|
-8555192104|9788555192104|2016-08|Willian Molinari|Casa do Codigo|Desconstruindo a Web: As tecnologias por trás de uma requisição|web,network,ptbr|
 8543005671|9788543005676|2015-12|Andrew S. Tanenbaum|Pearson|Sistemas operacionais modernos – 4a edicao|network,hardware,os|
 0470497025|9780470497029|2009-10|Jeff Duntemann|Wiley|Assembly Language Step-by-Step Third Edition|network,os,reverse|
 0132916525|9780132916523|2012-08|Andrew S. Tanenbaum, Todd Austin|Pearson|Structured Computer Organization (6th Edition)|os,reverse,tanenbaum|
@@ -618,3 +620,7 @@ B0167CVE0E|9788543014500|2015-09|William Stallings|Pearson|Criptografia e segura
 1782163166|9781782163169|2013-09|Joseph Muniz; Aamir Lakhani|Packt Publishing|Web Penetration Testing with Kali Linux|pentest,security,hacking|
 1593277164|9781593277161|2019-05|Alex Matrosov; Eugene Rodionov; Sergey Bratus|No Starch Press|Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats|pentest,security,hacking|
 1732265186|9781732265189|2019-05|Will Larson|Stripe Press|An Elegant Puzzle: Systems of Engineering Management|software,agile,management|
+1484251806|9781484251805|2019-12|Rap Payne|Apress|Beginning App Development with Flutter: Create Cross-Platform Mobile Apps|flutter,mobile,dart|
+1789344964|9781789344967|2019-03|Prajyot Mainkar; Salvatore Giordano|Packt Publishing|Google Flutter Mobile Development Quick Start Guide: Get up and running with iOS and Android mobile app development|flutter,mobile,dart|
+1484249712|9781484249710|2019-07|Frank Zammetti|Apress|Practical Flutter: Improve your Mobile Development with Google Latest Open-Source SDK|flutter,mobile,dart|
+1092297375|9781092297370|2019-05|Mark Clow|Independently published|Learn Google Flutter Fast: 65 Example Apps|flutter,mobile,dart|

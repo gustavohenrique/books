@@ -39,7 +39,7 @@ def to_html(**kwargs):
     }
 
     with open('html/_template.html', 'r') as t:
-	    source = t.read()
+        source = t.read()
     template = Template(source)
     html = template.render(data)
     with open('index.html', 'w') as f:
